@@ -1,0 +1,1067 @@
+abstraction for transport-strips-transport-l4-t1-p3---int100n150-m25---int100c150---s1---e0
+51 N0 1 N1 1 N2 1 N3 1 N4 1 N5 1 N6 1 N7 1 N8 1 N9 1 B0 0 B1 0 B2 0 B3 0 B4 0 B5 0 B6 0 B7 0 B8 0 B9 0 B10 0 B11 0 B12 0 B13 0 B14 0 B15 0 B16 0 B17 0 B18 0 B19 0 B20 0 B21 0 B22 0 B23 0 B24 0 B25 0 B26 0 B27 0 B28 0 B29 0 B30 0 B31 0 B32 0 B33 0 B34 0 B35 0 B36 0 B37 0 B38 0 B39 0 B40 0
+51 B40 1 B2 1 B0 0 B1 0 B3 0 B4 0 B5 0 B6 0 B7 0 B8 0 B9 0 B10 0 B11 0 B12 0 B13 0 B14 0 B15 0 B16 0 B17 0 B18 0 B19 0 B20 0 B21 0 B22 0 B23 0 B24 0 B25 0 B26 0 B27 0 B28 0 B29 0 B30 0 B31 0 B32 0 B33 0 B34 0 B35 0 B36 0 B37 0 B38 0 B39 0 N0 1 N1 0 N2 0 N3 0 N4 0 N5 0 N6 1 N7 0 N8 1 N9 0
+8 N0 0 N2 0 N3 0 N4 0 N6 0 N7 0 N8 0 N9 0
+354
+load_st1_package_t0_l0
+2 B0 1 N0 1
+2 N0 0 N4 1
+load_st1_package_t0_l1
+2 B1 1 N1 1
+2 N1 0 N4 1
+load_st1_package_t0_l2
+2 B2 1 N2 1
+2 N2 0 N4 1
+load_st1_package_t0_l3
+2 B3 1 N3 1
+2 N3 0 N4 1
+load_st2_package_t0_l0
+2 B0 1 N5 1
+2 N5 0 N9 1
+load_st2_package_t0_l1
+2 B1 1 N6 1
+2 N6 0 N9 1
+load_st2_package_t0_l2
+2 B2 1 N7 1
+2 N7 0 N9 1
+load_st2_package_t0_l3
+2 B3 1 N8 1
+2 N8 0 N9 1
+unload_st1_package_t0_l0
+2 B0 1 N4 1
+2 N4 0 N0 1
+unload_st1_package_t0_l1
+2 B1 1 N4 1
+2 N4 0 N1 1
+unload_st1_package_t0_l2
+2 B2 1 N4 1
+2 N4 0 N2 1
+unload_st1_package_t0_l3
+2 B3 1 N4 1
+2 N4 0 N3 1
+unload_st2_package_t0_l0
+2 B0 1 N9 1
+2 N9 0 N5 1
+unload_st2_package_t0_l1
+2 B1 1 N9 1
+2 N9 0 N6 1
+unload_st2_package_t0_l2
+2 B2 1 N9 1
+2 N9 0 N7 1
+unload_st2_package_t0_l3
+2 B3 1 N9 1
+2 N9 0 N8 1
+drive_t0_l0_l1_level0_level13_level13
+2 B17 1 B0 1
+4 B1 1 B4 1 B0 0 B17 0
+drive_t0_l0_l1_level1_level13_level14
+2 B18 1 B0 1
+4 B1 1 B5 1 B0 0 B18 0
+drive_t0_l0_l1_level10_level13_level23
+2 B27 1 B0 1
+4 B1 1 B14 1 B0 0 B27 0
+drive_t0_l0_l1_level11_level13_level24
+2 B28 1 B0 1
+4 B1 1 B15 1 B0 0 B28 0
+drive_t0_l0_l1_level12_level13_level25
+2 B29 1 B0 1
+4 B1 1 B16 1 B0 0 B29 0
+drive_t0_l0_l1_level13_level13_level26
+2 B30 1 B0 1
+4 B1 1 B17 1 B0 0 B30 0
+drive_t0_l0_l1_level14_level13_level27
+2 B31 1 B0 1
+4 B1 1 B18 1 B0 0 B31 0
+drive_t0_l0_l1_level15_level13_level28
+2 B32 1 B0 1
+4 B1 1 B19 1 B0 0 B32 0
+drive_t0_l0_l1_level16_level13_level29
+2 B33 1 B0 1
+4 B1 1 B20 1 B0 0 B33 0
+drive_t0_l0_l1_level17_level13_level30
+2 B34 1 B0 1
+4 B1 1 B21 1 B0 0 B34 0
+drive_t0_l0_l1_level18_level13_level31
+2 B35 1 B0 1
+4 B1 1 B22 1 B0 0 B35 0
+drive_t0_l0_l1_level19_level13_level32
+2 B36 1 B0 1
+4 B1 1 B23 1 B0 0 B36 0
+drive_t0_l0_l1_level2_level13_level15
+2 B19 1 B0 1
+4 B1 1 B6 1 B0 0 B19 0
+drive_t0_l0_l1_level20_level13_level33
+2 B37 1 B0 1
+4 B1 1 B24 1 B0 0 B37 0
+drive_t0_l0_l1_level21_level13_level34
+2 B38 1 B0 1
+4 B1 1 B25 1 B0 0 B38 0
+drive_t0_l0_l1_level22_level13_level35
+2 B39 1 B0 1
+4 B1 1 B26 1 B0 0 B39 0
+drive_t0_l0_l1_level23_level13_level36
+2 B40 1 B0 1
+4 B1 1 B27 1 B0 0 B40 0
+drive_t0_l0_l1_level3_level13_level16
+2 B20 1 B0 1
+4 B1 1 B7 1 B0 0 B20 0
+drive_t0_l0_l1_level4_level13_level17
+2 B21 1 B0 1
+4 B1 1 B8 1 B0 0 B21 0
+drive_t0_l0_l1_level5_level13_level18
+2 B22 1 B0 1
+4 B1 1 B9 1 B0 0 B22 0
+drive_t0_l0_l1_level6_level13_level19
+2 B23 1 B0 1
+4 B1 1 B10 1 B0 0 B23 0
+drive_t0_l0_l1_level7_level13_level20
+2 B24 1 B0 1
+4 B1 1 B11 1 B0 0 B24 0
+drive_t0_l0_l1_level8_level13_level21
+2 B25 1 B0 1
+4 B1 1 B12 1 B0 0 B25 0
+drive_t0_l0_l1_level9_level13_level22
+2 B26 1 B0 1
+4 B1 1 B13 1 B0 0 B26 0
+drive_t0_l0_l2_level0_level2_level2
+2 B6 1 B0 1
+4 B2 1 B4 1 B0 0 B6 0
+drive_t0_l0_l2_level1_level2_level3
+2 B7 1 B0 1
+4 B2 1 B5 1 B0 0 B7 0
+drive_t0_l0_l2_level10_level2_level12
+2 B16 1 B0 1
+4 B2 1 B14 1 B0 0 B16 0
+drive_t0_l0_l2_level11_level2_level13
+2 B17 1 B0 1
+4 B2 1 B15 1 B0 0 B17 0
+drive_t0_l0_l2_level12_level2_level14
+2 B18 1 B0 1
+4 B2 1 B16 1 B0 0 B18 0
+drive_t0_l0_l2_level13_level2_level15
+2 B19 1 B0 1
+4 B2 1 B17 1 B0 0 B19 0
+drive_t0_l0_l2_level14_level2_level16
+2 B20 1 B0 1
+4 B2 1 B18 1 B0 0 B20 0
+drive_t0_l0_l2_level15_level2_level17
+2 B21 1 B0 1
+4 B2 1 B19 1 B0 0 B21 0
+drive_t0_l0_l2_level16_level2_level18
+2 B22 1 B0 1
+4 B2 1 B20 1 B0 0 B22 0
+drive_t0_l0_l2_level17_level2_level19
+2 B23 1 B0 1
+4 B2 1 B21 1 B0 0 B23 0
+drive_t0_l0_l2_level18_level2_level20
+2 B24 1 B0 1
+4 B2 1 B22 1 B0 0 B24 0
+drive_t0_l0_l2_level19_level2_level21
+2 B25 1 B0 1
+4 B2 1 B23 1 B0 0 B25 0
+drive_t0_l0_l2_level2_level2_level4
+2 B8 1 B0 1
+4 B2 1 B6 1 B0 0 B8 0
+drive_t0_l0_l2_level20_level2_level22
+2 B26 1 B0 1
+4 B2 1 B24 1 B0 0 B26 0
+drive_t0_l0_l2_level21_level2_level23
+2 B27 1 B0 1
+4 B2 1 B25 1 B0 0 B27 0
+drive_t0_l0_l2_level22_level2_level24
+2 B28 1 B0 1
+4 B2 1 B26 1 B0 0 B28 0
+drive_t0_l0_l2_level23_level2_level25
+2 B29 1 B0 1
+4 B2 1 B27 1 B0 0 B29 0
+drive_t0_l0_l2_level24_level2_level26
+2 B30 1 B0 1
+4 B2 1 B28 1 B0 0 B30 0
+drive_t0_l0_l2_level25_level2_level27
+2 B31 1 B0 1
+4 B2 1 B29 1 B0 0 B31 0
+drive_t0_l0_l2_level26_level2_level28
+2 B32 1 B0 1
+4 B2 1 B30 1 B0 0 B32 0
+drive_t0_l0_l2_level27_level2_level29
+2 B33 1 B0 1
+4 B2 1 B31 1 B0 0 B33 0
+drive_t0_l0_l2_level28_level2_level30
+2 B34 1 B0 1
+4 B2 1 B32 1 B0 0 B34 0
+drive_t0_l0_l2_level29_level2_level31
+2 B35 1 B0 1
+4 B2 1 B33 1 B0 0 B35 0
+drive_t0_l0_l2_level3_level2_level5
+2 B9 1 B0 1
+4 B2 1 B7 1 B0 0 B9 0
+drive_t0_l0_l2_level30_level2_level32
+2 B36 1 B0 1
+4 B2 1 B34 1 B0 0 B36 0
+drive_t0_l0_l2_level31_level2_level33
+2 B37 1 B0 1
+4 B2 1 B35 1 B0 0 B37 0
+drive_t0_l0_l2_level32_level2_level34
+2 B38 1 B0 1
+4 B2 1 B36 1 B0 0 B38 0
+drive_t0_l0_l2_level33_level2_level35
+2 B39 1 B0 1
+4 B2 1 B37 1 B0 0 B39 0
+drive_t0_l0_l2_level34_level2_level36
+2 B40 1 B0 1
+4 B2 1 B38 1 B0 0 B40 0
+drive_t0_l0_l2_level4_level2_level6
+2 B10 1 B0 1
+4 B2 1 B8 1 B0 0 B10 0
+drive_t0_l0_l2_level5_level2_level7
+2 B11 1 B0 1
+4 B2 1 B9 1 B0 0 B11 0
+drive_t0_l0_l2_level6_level2_level8
+2 B12 1 B0 1
+4 B2 1 B10 1 B0 0 B12 0
+drive_t0_l0_l2_level7_level2_level9
+2 B13 1 B0 1
+4 B2 1 B11 1 B0 0 B13 0
+drive_t0_l0_l2_level8_level2_level10
+2 B14 1 B0 1
+4 B2 1 B12 1 B0 0 B14 0
+drive_t0_l0_l2_level9_level2_level11
+2 B15 1 B0 1
+4 B2 1 B13 1 B0 0 B15 0
+drive_t0_l0_l3_level0_level18_level18
+2 B22 1 B0 1
+4 B3 1 B4 1 B0 0 B22 0
+drive_t0_l0_l3_level1_level18_level19
+2 B23 1 B0 1
+4 B3 1 B5 1 B0 0 B23 0
+drive_t0_l0_l3_level10_level18_level28
+2 B32 1 B0 1
+4 B3 1 B14 1 B0 0 B32 0
+drive_t0_l0_l3_level11_level18_level29
+2 B33 1 B0 1
+4 B3 1 B15 1 B0 0 B33 0
+drive_t0_l0_l3_level12_level18_level30
+2 B34 1 B0 1
+4 B3 1 B16 1 B0 0 B34 0
+drive_t0_l0_l3_level13_level18_level31
+2 B35 1 B0 1
+4 B3 1 B17 1 B0 0 B35 0
+drive_t0_l0_l3_level14_level18_level32
+2 B36 1 B0 1
+4 B3 1 B18 1 B0 0 B36 0
+drive_t0_l0_l3_level15_level18_level33
+2 B37 1 B0 1
+4 B3 1 B19 1 B0 0 B37 0
+drive_t0_l0_l3_level16_level18_level34
+2 B38 1 B0 1
+4 B3 1 B20 1 B0 0 B38 0
+drive_t0_l0_l3_level17_level18_level35
+2 B39 1 B0 1
+4 B3 1 B21 1 B0 0 B39 0
+drive_t0_l0_l3_level18_level18_level36
+2 B40 1 B0 1
+4 B3 1 B22 1 B0 0 B40 0
+drive_t0_l0_l3_level2_level18_level20
+2 B24 1 B0 1
+4 B3 1 B6 1 B0 0 B24 0
+drive_t0_l0_l3_level3_level18_level21
+2 B25 1 B0 1
+4 B3 1 B7 1 B0 0 B25 0
+drive_t0_l0_l3_level4_level18_level22
+2 B26 1 B0 1
+4 B3 1 B8 1 B0 0 B26 0
+drive_t0_l0_l3_level5_level18_level23
+2 B27 1 B0 1
+4 B3 1 B9 1 B0 0 B27 0
+drive_t0_l0_l3_level6_level18_level24
+2 B28 1 B0 1
+4 B3 1 B10 1 B0 0 B28 0
+drive_t0_l0_l3_level7_level18_level25
+2 B29 1 B0 1
+4 B3 1 B11 1 B0 0 B29 0
+drive_t0_l0_l3_level8_level18_level26
+2 B30 1 B0 1
+4 B3 1 B12 1 B0 0 B30 0
+drive_t0_l0_l3_level9_level18_level27
+2 B31 1 B0 1
+4 B3 1 B13 1 B0 0 B31 0
+drive_t0_l1_l0_level0_level13_level13
+2 B17 1 B1 1
+4 B0 1 B4 1 B1 0 B17 0
+drive_t0_l1_l0_level1_level13_level14
+2 B18 1 B1 1
+4 B0 1 B5 1 B1 0 B18 0
+drive_t0_l1_l0_level10_level13_level23
+2 B27 1 B1 1
+4 B0 1 B14 1 B1 0 B27 0
+drive_t0_l1_l0_level11_level13_level24
+2 B28 1 B1 1
+4 B0 1 B15 1 B1 0 B28 0
+drive_t0_l1_l0_level12_level13_level25
+2 B29 1 B1 1
+4 B0 1 B16 1 B1 0 B29 0
+drive_t0_l1_l0_level13_level13_level26
+2 B30 1 B1 1
+4 B0 1 B17 1 B1 0 B30 0
+drive_t0_l1_l0_level14_level13_level27
+2 B31 1 B1 1
+4 B0 1 B18 1 B1 0 B31 0
+drive_t0_l1_l0_level15_level13_level28
+2 B32 1 B1 1
+4 B0 1 B19 1 B1 0 B32 0
+drive_t0_l1_l0_level16_level13_level29
+2 B33 1 B1 1
+4 B0 1 B20 1 B1 0 B33 0
+drive_t0_l1_l0_level17_level13_level30
+2 B34 1 B1 1
+4 B0 1 B21 1 B1 0 B34 0
+drive_t0_l1_l0_level18_level13_level31
+2 B35 1 B1 1
+4 B0 1 B22 1 B1 0 B35 0
+drive_t0_l1_l0_level19_level13_level32
+2 B36 1 B1 1
+4 B0 1 B23 1 B1 0 B36 0
+drive_t0_l1_l0_level2_level13_level15
+2 B19 1 B1 1
+4 B0 1 B6 1 B1 0 B19 0
+drive_t0_l1_l0_level20_level13_level33
+2 B37 1 B1 1
+4 B0 1 B24 1 B1 0 B37 0
+drive_t0_l1_l0_level21_level13_level34
+2 B38 1 B1 1
+4 B0 1 B25 1 B1 0 B38 0
+drive_t0_l1_l0_level22_level13_level35
+2 B39 1 B1 1
+4 B0 1 B26 1 B1 0 B39 0
+drive_t0_l1_l0_level23_level13_level36
+2 B40 1 B1 1
+4 B0 1 B27 1 B1 0 B40 0
+drive_t0_l1_l0_level3_level13_level16
+2 B20 1 B1 1
+4 B0 1 B7 1 B1 0 B20 0
+drive_t0_l1_l0_level4_level13_level17
+2 B21 1 B1 1
+4 B0 1 B8 1 B1 0 B21 0
+drive_t0_l1_l0_level5_level13_level18
+2 B22 1 B1 1
+4 B0 1 B9 1 B1 0 B22 0
+drive_t0_l1_l0_level6_level13_level19
+2 B23 1 B1 1
+4 B0 1 B10 1 B1 0 B23 0
+drive_t0_l1_l0_level7_level13_level20
+2 B24 1 B1 1
+4 B0 1 B11 1 B1 0 B24 0
+drive_t0_l1_l0_level8_level13_level21
+2 B25 1 B1 1
+4 B0 1 B12 1 B1 0 B25 0
+drive_t0_l1_l0_level9_level13_level22
+2 B26 1 B1 1
+4 B0 1 B13 1 B1 0 B26 0
+drive_t0_l1_l2_level0_level3_level3
+2 B7 1 B1 1
+4 B2 1 B4 1 B1 0 B7 0
+drive_t0_l1_l2_level1_level3_level4
+2 B8 1 B1 1
+4 B2 1 B5 1 B1 0 B8 0
+drive_t0_l1_l2_level10_level3_level13
+2 B17 1 B1 1
+4 B2 1 B14 1 B1 0 B17 0
+drive_t0_l1_l2_level11_level3_level14
+2 B18 1 B1 1
+4 B2 1 B15 1 B1 0 B18 0
+drive_t0_l1_l2_level12_level3_level15
+2 B19 1 B1 1
+4 B2 1 B16 1 B1 0 B19 0
+drive_t0_l1_l2_level13_level3_level16
+2 B20 1 B1 1
+4 B2 1 B17 1 B1 0 B20 0
+drive_t0_l1_l2_level14_level3_level17
+2 B21 1 B1 1
+4 B2 1 B18 1 B1 0 B21 0
+drive_t0_l1_l2_level15_level3_level18
+2 B22 1 B1 1
+4 B2 1 B19 1 B1 0 B22 0
+drive_t0_l1_l2_level16_level3_level19
+2 B23 1 B1 1
+4 B2 1 B20 1 B1 0 B23 0
+drive_t0_l1_l2_level17_level3_level20
+2 B24 1 B1 1
+4 B2 1 B21 1 B1 0 B24 0
+drive_t0_l1_l2_level18_level3_level21
+2 B25 1 B1 1
+4 B2 1 B22 1 B1 0 B25 0
+drive_t0_l1_l2_level19_level3_level22
+2 B26 1 B1 1
+4 B2 1 B23 1 B1 0 B26 0
+drive_t0_l1_l2_level2_level3_level5
+2 B9 1 B1 1
+4 B2 1 B6 1 B1 0 B9 0
+drive_t0_l1_l2_level20_level3_level23
+2 B27 1 B1 1
+4 B2 1 B24 1 B1 0 B27 0
+drive_t0_l1_l2_level21_level3_level24
+2 B28 1 B1 1
+4 B2 1 B25 1 B1 0 B28 0
+drive_t0_l1_l2_level22_level3_level25
+2 B29 1 B1 1
+4 B2 1 B26 1 B1 0 B29 0
+drive_t0_l1_l2_level23_level3_level26
+2 B30 1 B1 1
+4 B2 1 B27 1 B1 0 B30 0
+drive_t0_l1_l2_level24_level3_level27
+2 B31 1 B1 1
+4 B2 1 B28 1 B1 0 B31 0
+drive_t0_l1_l2_level25_level3_level28
+2 B32 1 B1 1
+4 B2 1 B29 1 B1 0 B32 0
+drive_t0_l1_l2_level26_level3_level29
+2 B33 1 B1 1
+4 B2 1 B30 1 B1 0 B33 0
+drive_t0_l1_l2_level27_level3_level30
+2 B34 1 B1 1
+4 B2 1 B31 1 B1 0 B34 0
+drive_t0_l1_l2_level28_level3_level31
+2 B35 1 B1 1
+4 B2 1 B32 1 B1 0 B35 0
+drive_t0_l1_l2_level29_level3_level32
+2 B36 1 B1 1
+4 B2 1 B33 1 B1 0 B36 0
+drive_t0_l1_l2_level3_level3_level6
+2 B10 1 B1 1
+4 B2 1 B7 1 B1 0 B10 0
+drive_t0_l1_l2_level30_level3_level33
+2 B37 1 B1 1
+4 B2 1 B34 1 B1 0 B37 0
+drive_t0_l1_l2_level31_level3_level34
+2 B38 1 B1 1
+4 B2 1 B35 1 B1 0 B38 0
+drive_t0_l1_l2_level32_level3_level35
+2 B39 1 B1 1
+4 B2 1 B36 1 B1 0 B39 0
+drive_t0_l1_l2_level33_level3_level36
+2 B40 1 B1 1
+4 B2 1 B37 1 B1 0 B40 0
+drive_t0_l1_l2_level4_level3_level7
+2 B11 1 B1 1
+4 B2 1 B8 1 B1 0 B11 0
+drive_t0_l1_l2_level5_level3_level8
+2 B12 1 B1 1
+4 B2 1 B9 1 B1 0 B12 0
+drive_t0_l1_l2_level6_level3_level9
+2 B13 1 B1 1
+4 B2 1 B10 1 B1 0 B13 0
+drive_t0_l1_l2_level7_level3_level10
+2 B14 1 B1 1
+4 B2 1 B11 1 B1 0 B14 0
+drive_t0_l1_l2_level8_level3_level11
+2 B15 1 B1 1
+4 B2 1 B12 1 B1 0 B15 0
+drive_t0_l1_l2_level9_level3_level12
+2 B16 1 B1 1
+4 B2 1 B13 1 B1 0 B16 0
+drive_t0_l1_l3_level0_level11_level11
+2 B15 1 B1 1
+4 B3 1 B4 1 B1 0 B15 0
+drive_t0_l1_l3_level1_level11_level12
+2 B16 1 B1 1
+4 B3 1 B5 1 B1 0 B16 0
+drive_t0_l1_l3_level10_level11_level21
+2 B25 1 B1 1
+4 B3 1 B14 1 B1 0 B25 0
+drive_t0_l1_l3_level11_level11_level22
+2 B26 1 B1 1
+4 B3 1 B15 1 B1 0 B26 0
+drive_t0_l1_l3_level12_level11_level23
+2 B27 1 B1 1
+4 B3 1 B16 1 B1 0 B27 0
+drive_t0_l1_l3_level13_level11_level24
+2 B28 1 B1 1
+4 B3 1 B17 1 B1 0 B28 0
+drive_t0_l1_l3_level14_level11_level25
+2 B29 1 B1 1
+4 B3 1 B18 1 B1 0 B29 0
+drive_t0_l1_l3_level15_level11_level26
+2 B30 1 B1 1
+4 B3 1 B19 1 B1 0 B30 0
+drive_t0_l1_l3_level16_level11_level27
+2 B31 1 B1 1
+4 B3 1 B20 1 B1 0 B31 0
+drive_t0_l1_l3_level17_level11_level28
+2 B32 1 B1 1
+4 B3 1 B21 1 B1 0 B32 0
+drive_t0_l1_l3_level18_level11_level29
+2 B33 1 B1 1
+4 B3 1 B22 1 B1 0 B33 0
+drive_t0_l1_l3_level19_level11_level30
+2 B34 1 B1 1
+4 B3 1 B23 1 B1 0 B34 0
+drive_t0_l1_l3_level2_level11_level13
+2 B17 1 B1 1
+4 B3 1 B6 1 B1 0 B17 0
+drive_t0_l1_l3_level20_level11_level31
+2 B35 1 B1 1
+4 B3 1 B24 1 B1 0 B35 0
+drive_t0_l1_l3_level21_level11_level32
+2 B36 1 B1 1
+4 B3 1 B25 1 B1 0 B36 0
+drive_t0_l1_l3_level22_level11_level33
+2 B37 1 B1 1
+4 B3 1 B26 1 B1 0 B37 0
+drive_t0_l1_l3_level23_level11_level34
+2 B38 1 B1 1
+4 B3 1 B27 1 B1 0 B38 0
+drive_t0_l1_l3_level24_level11_level35
+2 B39 1 B1 1
+4 B3 1 B28 1 B1 0 B39 0
+drive_t0_l1_l3_level25_level11_level36
+2 B40 1 B1 1
+4 B3 1 B29 1 B1 0 B40 0
+drive_t0_l1_l3_level3_level11_level14
+2 B18 1 B1 1
+4 B3 1 B7 1 B1 0 B18 0
+drive_t0_l1_l3_level4_level11_level15
+2 B19 1 B1 1
+4 B3 1 B8 1 B1 0 B19 0
+drive_t0_l1_l3_level5_level11_level16
+2 B20 1 B1 1
+4 B3 1 B9 1 B1 0 B20 0
+drive_t0_l1_l3_level6_level11_level17
+2 B21 1 B1 1
+4 B3 1 B10 1 B1 0 B21 0
+drive_t0_l1_l3_level7_level11_level18
+2 B22 1 B1 1
+4 B3 1 B11 1 B1 0 B22 0
+drive_t0_l1_l3_level8_level11_level19
+2 B23 1 B1 1
+4 B3 1 B12 1 B1 0 B23 0
+drive_t0_l1_l3_level9_level11_level20
+2 B24 1 B1 1
+4 B3 1 B13 1 B1 0 B24 0
+drive_t0_l2_l0_level0_level2_level2
+2 B6 1 B2 1
+4 B0 1 B4 1 B2 0 B6 0
+drive_t0_l2_l0_level1_level2_level3
+2 B7 1 B2 1
+4 B0 1 B5 1 B2 0 B7 0
+drive_t0_l2_l0_level10_level2_level12
+2 B16 1 B2 1
+4 B0 1 B14 1 B2 0 B16 0
+drive_t0_l2_l0_level11_level2_level13
+2 B17 1 B2 1
+4 B0 1 B15 1 B2 0 B17 0
+drive_t0_l2_l0_level12_level2_level14
+2 B18 1 B2 1
+4 B0 1 B16 1 B2 0 B18 0
+drive_t0_l2_l0_level13_level2_level15
+2 B19 1 B2 1
+4 B0 1 B17 1 B2 0 B19 0
+drive_t0_l2_l0_level14_level2_level16
+2 B20 1 B2 1
+4 B0 1 B18 1 B2 0 B20 0
+drive_t0_l2_l0_level15_level2_level17
+2 B21 1 B2 1
+4 B0 1 B19 1 B2 0 B21 0
+drive_t0_l2_l0_level16_level2_level18
+2 B22 1 B2 1
+4 B0 1 B20 1 B2 0 B22 0
+drive_t0_l2_l0_level17_level2_level19
+2 B23 1 B2 1
+4 B0 1 B21 1 B2 0 B23 0
+drive_t0_l2_l0_level18_level2_level20
+2 B24 1 B2 1
+4 B0 1 B22 1 B2 0 B24 0
+drive_t0_l2_l0_level19_level2_level21
+2 B25 1 B2 1
+4 B0 1 B23 1 B2 0 B25 0
+drive_t0_l2_l0_level2_level2_level4
+2 B8 1 B2 1
+4 B0 1 B6 1 B2 0 B8 0
+drive_t0_l2_l0_level20_level2_level22
+2 B26 1 B2 1
+4 B0 1 B24 1 B2 0 B26 0
+drive_t0_l2_l0_level21_level2_level23
+2 B27 1 B2 1
+4 B0 1 B25 1 B2 0 B27 0
+drive_t0_l2_l0_level22_level2_level24
+2 B28 1 B2 1
+4 B0 1 B26 1 B2 0 B28 0
+drive_t0_l2_l0_level23_level2_level25
+2 B29 1 B2 1
+4 B0 1 B27 1 B2 0 B29 0
+drive_t0_l2_l0_level24_level2_level26
+2 B30 1 B2 1
+4 B0 1 B28 1 B2 0 B30 0
+drive_t0_l2_l0_level25_level2_level27
+2 B31 1 B2 1
+4 B0 1 B29 1 B2 0 B31 0
+drive_t0_l2_l0_level26_level2_level28
+2 B32 1 B2 1
+4 B0 1 B30 1 B2 0 B32 0
+drive_t0_l2_l0_level27_level2_level29
+2 B33 1 B2 1
+4 B0 1 B31 1 B2 0 B33 0
+drive_t0_l2_l0_level28_level2_level30
+2 B34 1 B2 1
+4 B0 1 B32 1 B2 0 B34 0
+drive_t0_l2_l0_level29_level2_level31
+2 B35 1 B2 1
+4 B0 1 B33 1 B2 0 B35 0
+drive_t0_l2_l0_level3_level2_level5
+2 B9 1 B2 1
+4 B0 1 B7 1 B2 0 B9 0
+drive_t0_l2_l0_level30_level2_level32
+2 B36 1 B2 1
+4 B0 1 B34 1 B2 0 B36 0
+drive_t0_l2_l0_level31_level2_level33
+2 B37 1 B2 1
+4 B0 1 B35 1 B2 0 B37 0
+drive_t0_l2_l0_level32_level2_level34
+2 B38 1 B2 1
+4 B0 1 B36 1 B2 0 B38 0
+drive_t0_l2_l0_level33_level2_level35
+2 B39 1 B2 1
+4 B0 1 B37 1 B2 0 B39 0
+drive_t0_l2_l0_level34_level2_level36
+2 B40 1 B2 1
+4 B0 1 B38 1 B2 0 B40 0
+drive_t0_l2_l0_level4_level2_level6
+2 B10 1 B2 1
+4 B0 1 B8 1 B2 0 B10 0
+drive_t0_l2_l0_level5_level2_level7
+2 B11 1 B2 1
+4 B0 1 B9 1 B2 0 B11 0
+drive_t0_l2_l0_level6_level2_level8
+2 B12 1 B2 1
+4 B0 1 B10 1 B2 0 B12 0
+drive_t0_l2_l0_level7_level2_level9
+2 B13 1 B2 1
+4 B0 1 B11 1 B2 0 B13 0
+drive_t0_l2_l0_level8_level2_level10
+2 B14 1 B2 1
+4 B0 1 B12 1 B2 0 B14 0
+drive_t0_l2_l0_level9_level2_level11
+2 B15 1 B2 1
+4 B0 1 B13 1 B2 0 B15 0
+drive_t0_l2_l1_level0_level3_level3
+2 B7 1 B2 1
+4 B1 1 B4 1 B2 0 B7 0
+drive_t0_l2_l1_level1_level3_level4
+2 B8 1 B2 1
+4 B1 1 B5 1 B2 0 B8 0
+drive_t0_l2_l1_level10_level3_level13
+2 B17 1 B2 1
+4 B1 1 B14 1 B2 0 B17 0
+drive_t0_l2_l1_level11_level3_level14
+2 B18 1 B2 1
+4 B1 1 B15 1 B2 0 B18 0
+drive_t0_l2_l1_level12_level3_level15
+2 B19 1 B2 1
+4 B1 1 B16 1 B2 0 B19 0
+drive_t0_l2_l1_level13_level3_level16
+2 B20 1 B2 1
+4 B1 1 B17 1 B2 0 B20 0
+drive_t0_l2_l1_level14_level3_level17
+2 B21 1 B2 1
+4 B1 1 B18 1 B2 0 B21 0
+drive_t0_l2_l1_level15_level3_level18
+2 B22 1 B2 1
+4 B1 1 B19 1 B2 0 B22 0
+drive_t0_l2_l1_level16_level3_level19
+2 B23 1 B2 1
+4 B1 1 B20 1 B2 0 B23 0
+drive_t0_l2_l1_level17_level3_level20
+2 B24 1 B2 1
+4 B1 1 B21 1 B2 0 B24 0
+drive_t0_l2_l1_level18_level3_level21
+2 B25 1 B2 1
+4 B1 1 B22 1 B2 0 B25 0
+drive_t0_l2_l1_level19_level3_level22
+2 B26 1 B2 1
+4 B1 1 B23 1 B2 0 B26 0
+drive_t0_l2_l1_level2_level3_level5
+2 B9 1 B2 1
+4 B1 1 B6 1 B2 0 B9 0
+drive_t0_l2_l1_level20_level3_level23
+2 B27 1 B2 1
+4 B1 1 B24 1 B2 0 B27 0
+drive_t0_l2_l1_level21_level3_level24
+2 B28 1 B2 1
+4 B1 1 B25 1 B2 0 B28 0
+drive_t0_l2_l1_level22_level3_level25
+2 B29 1 B2 1
+4 B1 1 B26 1 B2 0 B29 0
+drive_t0_l2_l1_level23_level3_level26
+2 B30 1 B2 1
+4 B1 1 B27 1 B2 0 B30 0
+drive_t0_l2_l1_level24_level3_level27
+2 B31 1 B2 1
+4 B1 1 B28 1 B2 0 B31 0
+drive_t0_l2_l1_level25_level3_level28
+2 B32 1 B2 1
+4 B1 1 B29 1 B2 0 B32 0
+drive_t0_l2_l1_level26_level3_level29
+2 B33 1 B2 1
+4 B1 1 B30 1 B2 0 B33 0
+drive_t0_l2_l1_level27_level3_level30
+2 B34 1 B2 1
+4 B1 1 B31 1 B2 0 B34 0
+drive_t0_l2_l1_level28_level3_level31
+2 B35 1 B2 1
+4 B1 1 B32 1 B2 0 B35 0
+drive_t0_l2_l1_level29_level3_level32
+2 B36 1 B2 1
+4 B1 1 B33 1 B2 0 B36 0
+drive_t0_l2_l1_level3_level3_level6
+2 B10 1 B2 1
+4 B1 1 B7 1 B2 0 B10 0
+drive_t0_l2_l1_level30_level3_level33
+2 B37 1 B2 1
+4 B1 1 B34 1 B2 0 B37 0
+drive_t0_l2_l1_level31_level3_level34
+2 B38 1 B2 1
+4 B1 1 B35 1 B2 0 B38 0
+drive_t0_l2_l1_level32_level3_level35
+2 B39 1 B2 1
+4 B1 1 B36 1 B2 0 B39 0
+drive_t0_l2_l1_level33_level3_level36
+2 B40 1 B2 1
+4 B1 1 B37 1 B2 0 B40 0
+drive_t0_l2_l1_level4_level3_level7
+2 B11 1 B2 1
+4 B1 1 B8 1 B2 0 B11 0
+drive_t0_l2_l1_level5_level3_level8
+2 B12 1 B2 1
+4 B1 1 B9 1 B2 0 B12 0
+drive_t0_l2_l1_level6_level3_level9
+2 B13 1 B2 1
+4 B1 1 B10 1 B2 0 B13 0
+drive_t0_l2_l1_level7_level3_level10
+2 B14 1 B2 1
+4 B1 1 B11 1 B2 0 B14 0
+drive_t0_l2_l1_level8_level3_level11
+2 B15 1 B2 1
+4 B1 1 B12 1 B2 0 B15 0
+drive_t0_l2_l1_level9_level3_level12
+2 B16 1 B2 1
+4 B1 1 B13 1 B2 0 B16 0
+drive_t0_l2_l3_level0_level6_level6
+2 B10 1 B2 1
+4 B3 1 B4 1 B2 0 B10 0
+drive_t0_l2_l3_level1_level6_level7
+2 B11 1 B2 1
+4 B3 1 B5 1 B2 0 B11 0
+drive_t0_l2_l3_level10_level6_level16
+2 B20 1 B2 1
+4 B3 1 B14 1 B2 0 B20 0
+drive_t0_l2_l3_level11_level6_level17
+2 B21 1 B2 1
+4 B3 1 B15 1 B2 0 B21 0
+drive_t0_l2_l3_level12_level6_level18
+2 B22 1 B2 1
+4 B3 1 B16 1 B2 0 B22 0
+drive_t0_l2_l3_level13_level6_level19
+2 B23 1 B2 1
+4 B3 1 B17 1 B2 0 B23 0
+drive_t0_l2_l3_level14_level6_level20
+2 B24 1 B2 1
+4 B3 1 B18 1 B2 0 B24 0
+drive_t0_l2_l3_level15_level6_level21
+2 B25 1 B2 1
+4 B3 1 B19 1 B2 0 B25 0
+drive_t0_l2_l3_level16_level6_level22
+2 B26 1 B2 1
+4 B3 1 B20 1 B2 0 B26 0
+drive_t0_l2_l3_level17_level6_level23
+2 B27 1 B2 1
+4 B3 1 B21 1 B2 0 B27 0
+drive_t0_l2_l3_level18_level6_level24
+2 B28 1 B2 1
+4 B3 1 B22 1 B2 0 B28 0
+drive_t0_l2_l3_level19_level6_level25
+2 B29 1 B2 1
+4 B3 1 B23 1 B2 0 B29 0
+drive_t0_l2_l3_level2_level6_level8
+2 B12 1 B2 1
+4 B3 1 B6 1 B2 0 B12 0
+drive_t0_l2_l3_level20_level6_level26
+2 B30 1 B2 1
+4 B3 1 B24 1 B2 0 B30 0
+drive_t0_l2_l3_level21_level6_level27
+2 B31 1 B2 1
+4 B3 1 B25 1 B2 0 B31 0
+drive_t0_l2_l3_level22_level6_level28
+2 B32 1 B2 1
+4 B3 1 B26 1 B2 0 B32 0
+drive_t0_l2_l3_level23_level6_level29
+2 B33 1 B2 1
+4 B3 1 B27 1 B2 0 B33 0
+drive_t0_l2_l3_level24_level6_level30
+2 B34 1 B2 1
+4 B3 1 B28 1 B2 0 B34 0
+drive_t0_l2_l3_level25_level6_level31
+2 B35 1 B2 1
+4 B3 1 B29 1 B2 0 B35 0
+drive_t0_l2_l3_level26_level6_level32
+2 B36 1 B2 1
+4 B3 1 B30 1 B2 0 B36 0
+drive_t0_l2_l3_level27_level6_level33
+2 B37 1 B2 1
+4 B3 1 B31 1 B2 0 B37 0
+drive_t0_l2_l3_level28_level6_level34
+2 B38 1 B2 1
+4 B3 1 B32 1 B2 0 B38 0
+drive_t0_l2_l3_level29_level6_level35
+2 B39 1 B2 1
+4 B3 1 B33 1 B2 0 B39 0
+drive_t0_l2_l3_level3_level6_level9
+2 B13 1 B2 1
+4 B3 1 B7 1 B2 0 B13 0
+drive_t0_l2_l3_level30_level6_level36
+2 B40 1 B2 1
+4 B3 1 B34 1 B2 0 B40 0
+drive_t0_l2_l3_level4_level6_level10
+2 B14 1 B2 1
+4 B3 1 B8 1 B2 0 B14 0
+drive_t0_l2_l3_level5_level6_level11
+2 B15 1 B2 1
+4 B3 1 B9 1 B2 0 B15 0
+drive_t0_l2_l3_level6_level6_level12
+2 B16 1 B2 1
+4 B3 1 B10 1 B2 0 B16 0
+drive_t0_l2_l3_level7_level6_level13
+2 B17 1 B2 1
+4 B3 1 B11 1 B2 0 B17 0
+drive_t0_l2_l3_level8_level6_level14
+2 B18 1 B2 1
+4 B3 1 B12 1 B2 0 B18 0
+drive_t0_l2_l3_level9_level6_level15
+2 B19 1 B2 1
+4 B3 1 B13 1 B2 0 B19 0
+drive_t0_l3_l0_level0_level18_level18
+2 B22 1 B3 1
+4 B0 1 B4 1 B3 0 B22 0
+drive_t0_l3_l0_level1_level18_level19
+2 B23 1 B3 1
+4 B0 1 B5 1 B3 0 B23 0
+drive_t0_l3_l0_level10_level18_level28
+2 B32 1 B3 1
+4 B0 1 B14 1 B3 0 B32 0
+drive_t0_l3_l0_level11_level18_level29
+2 B33 1 B3 1
+4 B0 1 B15 1 B3 0 B33 0
+drive_t0_l3_l0_level12_level18_level30
+2 B34 1 B3 1
+4 B0 1 B16 1 B3 0 B34 0
+drive_t0_l3_l0_level13_level18_level31
+2 B35 1 B3 1
+4 B0 1 B17 1 B3 0 B35 0
+drive_t0_l3_l0_level14_level18_level32
+2 B36 1 B3 1
+4 B0 1 B18 1 B3 0 B36 0
+drive_t0_l3_l0_level15_level18_level33
+2 B37 1 B3 1
+4 B0 1 B19 1 B3 0 B37 0
+drive_t0_l3_l0_level16_level18_level34
+2 B38 1 B3 1
+4 B0 1 B20 1 B3 0 B38 0
+drive_t0_l3_l0_level17_level18_level35
+2 B39 1 B3 1
+4 B0 1 B21 1 B3 0 B39 0
+drive_t0_l3_l0_level18_level18_level36
+2 B40 1 B3 1
+4 B0 1 B22 1 B3 0 B40 0
+drive_t0_l3_l0_level2_level18_level20
+2 B24 1 B3 1
+4 B0 1 B6 1 B3 0 B24 0
+drive_t0_l3_l0_level3_level18_level21
+2 B25 1 B3 1
+4 B0 1 B7 1 B3 0 B25 0
+drive_t0_l3_l0_level4_level18_level22
+2 B26 1 B3 1
+4 B0 1 B8 1 B3 0 B26 0
+drive_t0_l3_l0_level5_level18_level23
+2 B27 1 B3 1
+4 B0 1 B9 1 B3 0 B27 0
+drive_t0_l3_l0_level6_level18_level24
+2 B28 1 B3 1
+4 B0 1 B10 1 B3 0 B28 0
+drive_t0_l3_l0_level7_level18_level25
+2 B29 1 B3 1
+4 B0 1 B11 1 B3 0 B29 0
+drive_t0_l3_l0_level8_level18_level26
+2 B30 1 B3 1
+4 B0 1 B12 1 B3 0 B30 0
+drive_t0_l3_l0_level9_level18_level27
+2 B31 1 B3 1
+4 B0 1 B13 1 B3 0 B31 0
+drive_t0_l3_l1_level0_level11_level11
+2 B15 1 B3 1
+4 B1 1 B4 1 B3 0 B15 0
+drive_t0_l3_l1_level1_level11_level12
+2 B16 1 B3 1
+4 B1 1 B5 1 B3 0 B16 0
+drive_t0_l3_l1_level10_level11_level21
+2 B25 1 B3 1
+4 B1 1 B14 1 B3 0 B25 0
+drive_t0_l3_l1_level11_level11_level22
+2 B26 1 B3 1
+4 B1 1 B15 1 B3 0 B26 0
+drive_t0_l3_l1_level12_level11_level23
+2 B27 1 B3 1
+4 B1 1 B16 1 B3 0 B27 0
+drive_t0_l3_l1_level13_level11_level24
+2 B28 1 B3 1
+4 B1 1 B17 1 B3 0 B28 0
+drive_t0_l3_l1_level14_level11_level25
+2 B29 1 B3 1
+4 B1 1 B18 1 B3 0 B29 0
+drive_t0_l3_l1_level15_level11_level26
+2 B30 1 B3 1
+4 B1 1 B19 1 B3 0 B30 0
+drive_t0_l3_l1_level16_level11_level27
+2 B31 1 B3 1
+4 B1 1 B20 1 B3 0 B31 0
+drive_t0_l3_l1_level17_level11_level28
+2 B32 1 B3 1
+4 B1 1 B21 1 B3 0 B32 0
+drive_t0_l3_l1_level18_level11_level29
+2 B33 1 B3 1
+4 B1 1 B22 1 B3 0 B33 0
+drive_t0_l3_l1_level19_level11_level30
+2 B34 1 B3 1
+4 B1 1 B23 1 B3 0 B34 0
+drive_t0_l3_l1_level2_level11_level13
+2 B17 1 B3 1
+4 B1 1 B6 1 B3 0 B17 0
+drive_t0_l3_l1_level20_level11_level31
+2 B35 1 B3 1
+4 B1 1 B24 1 B3 0 B35 0
+drive_t0_l3_l1_level21_level11_level32
+2 B36 1 B3 1
+4 B1 1 B25 1 B3 0 B36 0
+drive_t0_l3_l1_level22_level11_level33
+2 B37 1 B3 1
+4 B1 1 B26 1 B3 0 B37 0
+drive_t0_l3_l1_level23_level11_level34
+2 B38 1 B3 1
+4 B1 1 B27 1 B3 0 B38 0
+drive_t0_l3_l1_level24_level11_level35
+2 B39 1 B3 1
+4 B1 1 B28 1 B3 0 B39 0
+drive_t0_l3_l1_level25_level11_level36
+2 B40 1 B3 1
+4 B1 1 B29 1 B3 0 B40 0
+drive_t0_l3_l1_level3_level11_level14
+2 B18 1 B3 1
+4 B1 1 B7 1 B3 0 B18 0
+drive_t0_l3_l1_level4_level11_level15
+2 B19 1 B3 1
+4 B1 1 B8 1 B3 0 B19 0
+drive_t0_l3_l1_level5_level11_level16
+2 B20 1 B3 1
+4 B1 1 B9 1 B3 0 B20 0
+drive_t0_l3_l1_level6_level11_level17
+2 B21 1 B3 1
+4 B1 1 B10 1 B3 0 B21 0
+drive_t0_l3_l1_level7_level11_level18
+2 B22 1 B3 1
+4 B1 1 B11 1 B3 0 B22 0
+drive_t0_l3_l1_level8_level11_level19
+2 B23 1 B3 1
+4 B1 1 B12 1 B3 0 B23 0
+drive_t0_l3_l1_level9_level11_level20
+2 B24 1 B3 1
+4 B1 1 B13 1 B3 0 B24 0
+drive_t0_l3_l2_level0_level6_level6
+2 B10 1 B3 1
+4 B2 1 B4 1 B3 0 B10 0
+drive_t0_l3_l2_level1_level6_level7
+2 B11 1 B3 1
+4 B2 1 B5 1 B3 0 B11 0
+drive_t0_l3_l2_level10_level6_level16
+2 B20 1 B3 1
+4 B2 1 B14 1 B3 0 B20 0
+drive_t0_l3_l2_level11_level6_level17
+2 B21 1 B3 1
+4 B2 1 B15 1 B3 0 B21 0
+drive_t0_l3_l2_level12_level6_level18
+2 B22 1 B3 1
+4 B2 1 B16 1 B3 0 B22 0
+drive_t0_l3_l2_level13_level6_level19
+2 B23 1 B3 1
+4 B2 1 B17 1 B3 0 B23 0
+drive_t0_l3_l2_level14_level6_level20
+2 B24 1 B3 1
+4 B2 1 B18 1 B3 0 B24 0
+drive_t0_l3_l2_level15_level6_level21
+2 B25 1 B3 1
+4 B2 1 B19 1 B3 0 B25 0
+drive_t0_l3_l2_level16_level6_level22
+2 B26 1 B3 1
+4 B2 1 B20 1 B3 0 B26 0
+drive_t0_l3_l2_level17_level6_level23
+2 B27 1 B3 1
+4 B2 1 B21 1 B3 0 B27 0
+drive_t0_l3_l2_level18_level6_level24
+2 B28 1 B3 1
+4 B2 1 B22 1 B3 0 B28 0
+drive_t0_l3_l2_level19_level6_level25
+2 B29 1 B3 1
+4 B2 1 B23 1 B3 0 B29 0
+drive_t0_l3_l2_level2_level6_level8
+2 B12 1 B3 1
+4 B2 1 B6 1 B3 0 B12 0
+drive_t0_l3_l2_level20_level6_level26
+2 B30 1 B3 1
+4 B2 1 B24 1 B3 0 B30 0
+drive_t0_l3_l2_level21_level6_level27
+2 B31 1 B3 1
+4 B2 1 B25 1 B3 0 B31 0
+drive_t0_l3_l2_level22_level6_level28
+2 B32 1 B3 1
+4 B2 1 B26 1 B3 0 B32 0
+drive_t0_l3_l2_level23_level6_level29
+2 B33 1 B3 1
+4 B2 1 B27 1 B3 0 B33 0
+drive_t0_l3_l2_level24_level6_level30
+2 B34 1 B3 1
+4 B2 1 B28 1 B3 0 B34 0
+drive_t0_l3_l2_level25_level6_level31
+2 B35 1 B3 1
+4 B2 1 B29 1 B3 0 B35 0
+drive_t0_l3_l2_level26_level6_level32
+2 B36 1 B3 1
+4 B2 1 B30 1 B3 0 B36 0
+drive_t0_l3_l2_level27_level6_level33
+2 B37 1 B3 1
+4 B2 1 B31 1 B3 0 B37 0
+drive_t0_l3_l2_level28_level6_level34
+2 B38 1 B3 1
+4 B2 1 B32 1 B3 0 B38 0
+drive_t0_l3_l2_level29_level6_level35
+2 B39 1 B3 1
+4 B2 1 B33 1 B3 0 B39 0
+drive_t0_l3_l2_level3_level6_level9
+2 B13 1 B3 1
+4 B2 1 B7 1 B3 0 B13 0
+drive_t0_l3_l2_level30_level6_level36
+2 B40 1 B3 1
+4 B2 1 B34 1 B3 0 B40 0
+drive_t0_l3_l2_level4_level6_level10
+2 B14 1 B3 1
+4 B2 1 B8 1 B3 0 B14 0
+drive_t0_l3_l2_level5_level6_level11
+2 B15 1 B3 1
+4 B2 1 B9 1 B3 0 B15 0
+drive_t0_l3_l2_level6_level6_level12
+2 B16 1 B3 1
+4 B2 1 B10 1 B3 0 B16 0
+drive_t0_l3_l2_level7_level6_level13
+2 B17 1 B3 1
+4 B2 1 B11 1 B3 0 B17 0
+drive_t0_l3_l2_level8_level6_level14
+2 B18 1 B3 1
+4 B2 1 B12 1 B3 0 B18 0
+drive_t0_l3_l2_level9_level6_level15
+2 B19 1 B3 1
+4 B2 1 B13 1 B3 0 B19 0

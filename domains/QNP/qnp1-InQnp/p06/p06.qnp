@@ -1,0 +1,26 @@
+p06
+7 gr0_v1 1 gr0_v2 1 gr0_v3 1 gr0_v4 1 gr0_v5 1 gr0_v6 1 p 0
+7 gr0_v1 1 gr0_v2 1 gr0_v3 1 gr0_v4 1 gr0_v5 1 gr0_v6 1 p 1
+1 gr0_v6 0
+7
+b
+1 p 0
+1 p 1
+a_v0_v1
+2 gr0_v1 1 p 1
+2 gr0_v1 0 p 0
+a_v1_v2
+3 gr0_v1 0 gr0_v2 1 p 1
+2 gr0_v2 0 p 0
+a_v2_v3
+3 gr0_v2 0 gr0_v3 1 p 1
+2 gr0_v3 0 p 0
+a_v3_v4
+3 gr0_v3 0 gr0_v4 1 p 1
+2 gr0_v4 0 p 0
+a_v4_v5
+3 gr0_v4 0 gr0_v5 1 p 1
+2 gr0_v5 0 p 0
+a_v5_v6
+3 gr0_v5 0 gr0_v6 1 p 1
+2 gr0_v6 0 p 0

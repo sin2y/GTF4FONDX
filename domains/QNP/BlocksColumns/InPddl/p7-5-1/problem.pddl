@@ -1,0 +1,47 @@
+(define (problem BlocksColumns-7-5-1) ;spec: 0000011
+  (:domain BlocksColumns)
+  (:objects
+    c0 c1 c2 c3 c4 c5 c6 - column
+    p0 p1 p2 p3 p4 - person
+    g0 - gripper
+  )
+  (:init
+    (in p0 c0)
+    (in p1 c1)
+    (in p2 c2)
+    (in p3 c3)
+    (in p4 c4)
+    (blocks-gr0 c5)
+    (blocks-gr0 c6)
+    (in g0 c0)
+    (empty g0)
+    (adjacent c0 c1)
+    (adjacent c1 c2)
+    (adjacent c2 c3)
+    (adjacent c3 c4)
+    (adjacent c4 c5)
+    (adjacent c5 c6)
+    (adjacent c1 c0)
+    (adjacent c2 c1)
+    (adjacent c3 c2)
+    (adjacent c4 c3)
+    (adjacent c5 c4)
+    (adjacent c6 c5)
+  )
+  (:goal
+    (and
+      (in p0 c6)
+      (in p1 c6)
+      (in p2 c6)
+      (in p3 c6)
+      (in p4 c6)
+    )
+  )
+  (:fairness :a (pick g0 c0) :b (drop g0 c0))
+  (:fairness :a (pick g0 c1) :b (drop g0 c1))
+  (:fairness :a (pick g0 c2) :b (drop g0 c2))
+  (:fairness :a (pick g0 c3) :b (drop g0 c3))
+  (:fairness :a (pick g0 c4) :b (drop g0 c4))
+  (:fairness :a (pick g0 c5) :b (drop g0 c5))
+  (:fairness :a (pick g0 c6) :b (drop g0 c6))
+)

@@ -1,0 +1,29 @@
+blocks-clear-x
+5 nabove_A 1 nother_A 1 hold_A 0 hold-other_A 0 some-below_A 0
+4 nabove_A 1 hold_A 0 hold-other_A 0 some-below_A 1
+3 nabove_A 0 hold_A 0 hold-other_A 0
+8
+Pick-x-some-below
+4 nabove_A 0 hold_A 0 hold-other_A 0 some-below_A 1
+3 nother_A 1 hold_A 1 some-below_A 0
+Pick-x-none-below
+4 nabove_A 0 hold_A 0 hold-other_A 0 some-below_A 0
+1 hold_A 1
+Pick-above-x
+3 nabove_A 1 hold_A 0 hold-other_A 0
+2 nabove_A 0 hold-other_A 1
+Pick-other
+3 nother_A 1 hold_A 0 hold-other_A 0
+2 nother_A 0 hold-other_A 1
+Put-x-on-table
+1 hold_A 1
+1 hold_A 0
+Put-x-above-some
+2 nother_A 1 hold_A 1
+3 nother_A 0 hold_A 0 some-below_A 1
+Put-aside
+1 hold-other_A 1
+2 nother_A 1 hold-other_A 0
+Put-above-x
+1 hold-other_A 1
+2 nabove_A 1 hold-other_A 0

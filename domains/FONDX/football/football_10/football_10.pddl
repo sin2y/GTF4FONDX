@@ -1,0 +1,18 @@
+(define (problem football10) (:domain footballnx2)
+	(:objects p1 p2 p3 p4 p5 p6 p7 p8 p9 p10)
+	(:init (agent-turn) (at p5) (defender p5) (dist-gr0) (dec up p1) (dec p1 p2) (dec p2 p3) (dec p3 p4) (dec p4 p5) (dec p5 p6) (dec p6 p7) (dec p7 p8) (dec p8 p9) (dec p9 p10) (dec p10 down))
+	(:goal (not (dist-gr0)))
+	(:fairness
+		:a (go-up down p10 p9) (go-down p9 p10 down)
+		(go-up p2 p1 up) (go-down up p1 p2)
+		(go-up p3 p2 p1) (go-down p1 p2 p3)
+		(go-up p4 p3 p2) (go-down p2 p3 p4)
+		(go-up p5 p4 p3) (go-down p3 p4 p5)
+		(go-up p6 p5 p4) (go-down p4 p5 p6)
+		(go-up p7 p6 p5) (go-down p5 p6 p7)
+		(go-up p8 p7 p6) (go-down p6 p7 p8)
+		(go-up p9 p8 p7) (go-down p7 p8 p9)
+		(go-up p10 p9 p8) (go-down p8 p9 p10))
+	(:fairness
+		:a (go-right p1) (go-right p2) (go-right p3) (go-right p4) (go-right p5) (go-right p6) (go-right p7) (go-right p8) (go-right p9) (go-right p10)
+		:b (go-left p1) (go-left p2) (go-left p3) (go-left p4) (go-left p5) (go-left p6) (go-left p7) (go-left p8) (go-left p9) (go-left p10)))

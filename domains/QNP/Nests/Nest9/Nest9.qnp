@@ -1,0 +1,32 @@
+Nest9
+9 x1 1 x2 1 x3 1 x4 1 x5 1 x6 1 x7 1 x8 1 x9 1
+9 x1 1 x2 1 x3 1 x4 1 x5 1 x6 1 x7 1 x8 1 x9 1
+9 x1 0 x2 0 x3 0 x4 0 x5 0 x6 0 x7 0 x8 0 x9 0
+9
+act1
+9 x1 1 x2 0 x3 0 x4 0 x5 0 x6 0 x7 0 x8 0 x9 0
+9 x1 0 x2 1 x3 1 x4 1 x5 1 x6 1 x7 1 x8 1 x9 1
+act2
+8 x2 1 x3 0 x4 0 x5 0 x6 0 x7 0 x8 0 x9 0
+8 x2 0 x3 1 x4 1 x5 1 x6 1 x7 1 x8 1 x9 1
+act3
+7 x3 1 x4 0 x5 0 x6 0 x7 0 x8 0 x9 0
+7 x3 0 x4 1 x5 1 x6 1 x7 1 x8 1 x9 1
+act4
+6 x4 1 x5 0 x6 0 x7 0 x8 0 x9 0
+6 x4 0 x5 1 x6 1 x7 1 x8 1 x9 1
+act5
+5 x5 1 x6 0 x7 0 x8 0 x9 0
+5 x5 0 x6 1 x7 1 x8 1 x9 1
+act6
+4 x6 1 x7 0 x8 0 x9 0
+4 x6 0 x7 1 x8 1 x9 1
+act7
+3 x7 1 x8 0 x9 0
+3 x7 0 x8 1 x9 1
+act8
+2 x8 1 x9 0
+2 x8 0 x9 1
+act9
+1 x9 1
+1 x9 0

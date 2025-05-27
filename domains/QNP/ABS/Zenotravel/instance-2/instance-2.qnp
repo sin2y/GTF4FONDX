@@ -1,0 +1,311 @@
+abstraction for zeno-travel-ztravel-1-3
+22 N0 1 N1 1 N2 1 N3 1 N4 1 N5 1 N6 1 N7 1 N8 1 N9 1 N10 1 N11 1 B0 0 B1 0 B2 0 B3 0 B4 0 B5 0 B6 0 B7 0 B8 0 B9 0
+22 B5 1 B0 1 B1 0 B2 0 B3 0 B4 0 B6 0 B7 0 B8 0 B9 0 N0 0 N1 0 N2 1 N3 0 N4 0 N5 1 N6 0 N7 0 N8 0 N9 0 N10 1 N11 0
+7 B2 1 N0 0 N2 0 N3 0 N8 0 N9 0 N11 0
+102
+board_st1_person_plane1_city0
+2 B0 1 N0 1
+2 N0 0 N3 1
+board_st1_person_plane1_city1
+2 B1 1 N1 1
+2 N1 0 N3 1
+board_st1_person_plane1_city2
+2 B2 1 N2 1
+2 N2 0 N3 1
+board_st2_person_plane1_city0
+2 B0 1 N4 1
+2 N4 0 N7 1
+board_st2_person_plane1_city1
+2 B1 1 N5 1
+2 N5 0 N7 1
+board_st2_person_plane1_city2
+2 B2 1 N6 1
+2 N6 0 N7 1
+board_st3_person_plane1_city0
+2 B0 1 N8 1
+2 N8 0 N11 1
+board_st3_person_plane1_city1
+2 B1 1 N9 1
+2 N9 0 N11 1
+board_st3_person_plane1_city2
+2 B2 1 N10 1
+2 N10 0 N11 1
+debark_st1_person_plane1_city0
+2 B0 1 N3 1
+2 N3 0 N0 1
+debark_st1_person_plane1_city1
+2 B1 1 N3 1
+2 N3 0 N1 1
+debark_st1_person_plane1_city2
+2 B2 1 N3 1
+2 N3 0 N2 1
+debark_st2_person_plane1_city0
+2 B0 1 N7 1
+2 N7 0 N4 1
+debark_st2_person_plane1_city1
+2 B1 1 N7 1
+2 N7 0 N5 1
+debark_st2_person_plane1_city2
+2 B2 1 N7 1
+2 N7 0 N6 1
+debark_st3_person_plane1_city0
+2 B0 1 N11 1
+2 N11 0 N8 1
+debark_st3_person_plane1_city1
+2 B1 1 N11 1
+2 N11 0 N9 1
+debark_st3_person_plane1_city2
+2 B2 1 N11 1
+2 N11 0 N10 1
+fly_plane1_city0_city1_fl1_fl0
+2 B0 1 B4 1
+4 B1 1 B3 1 B0 0 B4 0
+fly_plane1_city0_city2_fl1_fl0
+2 B0 1 B4 1
+4 B2 1 B3 1 B0 0 B4 0
+fly_plane1_city1_city0_fl1_fl0
+2 B1 1 B4 1
+4 B0 1 B3 1 B1 0 B4 0
+fly_plane1_city1_city2_fl1_fl0
+2 B1 1 B4 1
+4 B2 1 B3 1 B1 0 B4 0
+fly_plane1_city2_city0_fl1_fl0
+2 B2 1 B4 1
+4 B0 1 B3 1 B2 0 B4 0
+fly_plane1_city2_city1_fl1_fl0
+2 B2 1 B4 1
+4 B1 1 B3 1 B2 0 B4 0
+fly_plane1_city0_city1_fl2_fl1
+2 B0 1 B5 1
+4 B1 1 B4 1 B0 0 B5 0
+fly_plane1_city0_city2_fl2_fl1
+2 B0 1 B5 1
+4 B2 1 B4 1 B0 0 B5 0
+fly_plane1_city1_city0_fl2_fl1
+2 B1 1 B5 1
+4 B0 1 B4 1 B1 0 B5 0
+fly_plane1_city1_city2_fl2_fl1
+2 B1 1 B5 1
+4 B2 1 B4 1 B1 0 B5 0
+fly_plane1_city2_city0_fl2_fl1
+2 B2 1 B5 1
+4 B0 1 B4 1 B2 0 B5 0
+fly_plane1_city2_city1_fl2_fl1
+2 B2 1 B5 1
+4 B1 1 B4 1 B2 0 B5 0
+fly_plane1_city0_city1_fl3_fl2
+2 B0 1 B6 1
+4 B1 1 B5 1 B0 0 B6 0
+fly_plane1_city0_city2_fl3_fl2
+2 B0 1 B6 1
+4 B2 1 B5 1 B0 0 B6 0
+fly_plane1_city1_city0_fl3_fl2
+2 B1 1 B6 1
+4 B0 1 B5 1 B1 0 B6 0
+fly_plane1_city1_city2_fl3_fl2
+2 B1 1 B6 1
+4 B2 1 B5 1 B1 0 B6 0
+fly_plane1_city2_city0_fl3_fl2
+2 B2 1 B6 1
+4 B0 1 B5 1 B2 0 B6 0
+fly_plane1_city2_city1_fl3_fl2
+2 B2 1 B6 1
+4 B1 1 B5 1 B2 0 B6 0
+fly_plane1_city0_city1_fl4_fl3
+2 B0 1 B7 1
+4 B1 1 B6 1 B0 0 B7 0
+fly_plane1_city0_city2_fl4_fl3
+2 B0 1 B7 1
+4 B2 1 B6 1 B0 0 B7 0
+fly_plane1_city1_city0_fl4_fl3
+2 B1 1 B7 1
+4 B0 1 B6 1 B1 0 B7 0
+fly_plane1_city1_city2_fl4_fl3
+2 B1 1 B7 1
+4 B2 1 B6 1 B1 0 B7 0
+fly_plane1_city2_city0_fl4_fl3
+2 B2 1 B7 1
+4 B0 1 B6 1 B2 0 B7 0
+fly_plane1_city2_city1_fl4_fl3
+2 B2 1 B7 1
+4 B1 1 B6 1 B2 0 B7 0
+fly_plane1_city0_city1_fl5_fl4
+2 B0 1 B8 1
+4 B1 1 B7 1 B0 0 B8 0
+fly_plane1_city0_city2_fl5_fl4
+2 B0 1 B8 1
+4 B2 1 B7 1 B0 0 B8 0
+fly_plane1_city1_city0_fl5_fl4
+2 B1 1 B8 1
+4 B0 1 B7 1 B1 0 B8 0
+fly_plane1_city1_city2_fl5_fl4
+2 B1 1 B8 1
+4 B2 1 B7 1 B1 0 B8 0
+fly_plane1_city2_city0_fl5_fl4
+2 B2 1 B8 1
+4 B0 1 B7 1 B2 0 B8 0
+fly_plane1_city2_city1_fl5_fl4
+2 B2 1 B8 1
+4 B1 1 B7 1 B2 0 B8 0
+fly_plane1_city0_city1_fl6_fl5
+2 B0 1 B9 1
+4 B1 1 B8 1 B0 0 B9 0
+fly_plane1_city0_city2_fl6_fl5
+2 B0 1 B9 1
+4 B2 1 B8 1 B0 0 B9 0
+fly_plane1_city1_city0_fl6_fl5
+2 B1 1 B9 1
+4 B0 1 B8 1 B1 0 B9 0
+fly_plane1_city1_city2_fl6_fl5
+2 B1 1 B9 1
+4 B2 1 B8 1 B1 0 B9 0
+fly_plane1_city2_city0_fl6_fl5
+2 B2 1 B9 1
+4 B0 1 B8 1 B2 0 B9 0
+fly_plane1_city2_city1_fl6_fl5
+2 B2 1 B9 1
+4 B1 1 B8 1 B2 0 B9 0
+zoom_plane1_city0_city1_fl2_fl1_fl0
+2 B0 1 B5 1
+4 B1 1 B3 1 B0 0 B5 0
+zoom_plane1_city0_city2_fl2_fl1_fl0
+2 B0 1 B5 1
+4 B2 1 B3 1 B0 0 B5 0
+zoom_plane1_city1_city0_fl2_fl1_fl0
+2 B1 1 B5 1
+4 B0 1 B3 1 B1 0 B5 0
+zoom_plane1_city1_city2_fl2_fl1_fl0
+2 B1 1 B5 1
+4 B2 1 B3 1 B1 0 B5 0
+zoom_plane1_city2_city0_fl2_fl1_fl0
+2 B2 1 B5 1
+4 B0 1 B3 1 B2 0 B5 0
+zoom_plane1_city2_city1_fl2_fl1_fl0
+2 B2 1 B5 1
+4 B1 1 B3 1 B2 0 B5 0
+zoom_plane1_city0_city1_fl3_fl2_fl1
+2 B0 1 B6 1
+4 B1 1 B4 1 B0 0 B6 0
+zoom_plane1_city0_city2_fl3_fl2_fl1
+2 B0 1 B6 1
+4 B2 1 B4 1 B0 0 B6 0
+zoom_plane1_city1_city0_fl3_fl2_fl1
+2 B1 1 B6 1
+4 B0 1 B4 1 B1 0 B6 0
+zoom_plane1_city1_city2_fl3_fl2_fl1
+2 B1 1 B6 1
+4 B2 1 B4 1 B1 0 B6 0
+zoom_plane1_city2_city0_fl3_fl2_fl1
+2 B2 1 B6 1
+4 B0 1 B4 1 B2 0 B6 0
+zoom_plane1_city2_city1_fl3_fl2_fl1
+2 B2 1 B6 1
+4 B1 1 B4 1 B2 0 B6 0
+zoom_plane1_city0_city1_fl4_fl3_fl2
+2 B0 1 B7 1
+4 B1 1 B5 1 B0 0 B7 0
+zoom_plane1_city0_city2_fl4_fl3_fl2
+2 B0 1 B7 1
+4 B2 1 B5 1 B0 0 B7 0
+zoom_plane1_city1_city0_fl4_fl3_fl2
+2 B1 1 B7 1
+4 B0 1 B5 1 B1 0 B7 0
+zoom_plane1_city1_city2_fl4_fl3_fl2
+2 B1 1 B7 1
+4 B2 1 B5 1 B1 0 B7 0
+zoom_plane1_city2_city0_fl4_fl3_fl2
+2 B2 1 B7 1
+4 B0 1 B5 1 B2 0 B7 0
+zoom_plane1_city2_city1_fl4_fl3_fl2
+2 B2 1 B7 1
+4 B1 1 B5 1 B2 0 B7 0
+zoom_plane1_city0_city1_fl5_fl4_fl3
+2 B0 1 B8 1
+4 B1 1 B6 1 B0 0 B8 0
+zoom_plane1_city0_city2_fl5_fl4_fl3
+2 B0 1 B8 1
+4 B2 1 B6 1 B0 0 B8 0
+zoom_plane1_city1_city0_fl5_fl4_fl3
+2 B1 1 B8 1
+4 B0 1 B6 1 B1 0 B8 0
+zoom_plane1_city1_city2_fl5_fl4_fl3
+2 B1 1 B8 1
+4 B2 1 B6 1 B1 0 B8 0
+zoom_plane1_city2_city0_fl5_fl4_fl3
+2 B2 1 B8 1
+4 B0 1 B6 1 B2 0 B8 0
+zoom_plane1_city2_city1_fl5_fl4_fl3
+2 B2 1 B8 1
+4 B1 1 B6 1 B2 0 B8 0
+zoom_plane1_city0_city1_fl6_fl5_fl4
+2 B0 1 B9 1
+4 B1 1 B7 1 B0 0 B9 0
+zoom_plane1_city0_city2_fl6_fl5_fl4
+2 B0 1 B9 1
+4 B2 1 B7 1 B0 0 B9 0
+zoom_plane1_city1_city0_fl6_fl5_fl4
+2 B1 1 B9 1
+4 B0 1 B7 1 B1 0 B9 0
+zoom_plane1_city1_city2_fl6_fl5_fl4
+2 B1 1 B9 1
+4 B2 1 B7 1 B1 0 B9 0
+zoom_plane1_city2_city0_fl6_fl5_fl4
+2 B2 1 B9 1
+4 B0 1 B7 1 B2 0 B9 0
+zoom_plane1_city2_city1_fl6_fl5_fl4
+2 B2 1 B9 1
+4 B1 1 B7 1 B2 0 B9 0
+refuel_plane1_city0_fl0_fl1
+2 B3 1 B0 1
+2 B4 1 B3 0
+refuel_plane1_city1_fl0_fl1
+2 B3 1 B1 1
+2 B4 1 B3 0
+refuel_plane1_city2_fl0_fl1
+2 B3 1 B2 1
+2 B4 1 B3 0
+refuel_plane1_city0_fl1_fl2
+2 B4 1 B0 1
+2 B5 1 B4 0
+refuel_plane1_city1_fl1_fl2
+2 B4 1 B1 1
+2 B5 1 B4 0
+refuel_plane1_city2_fl1_fl2
+2 B4 1 B2 1
+2 B5 1 B4 0
+refuel_plane1_city0_fl2_fl3
+2 B5 1 B0 1
+2 B6 1 B5 0
+refuel_plane1_city1_fl2_fl3
+2 B5 1 B1 1
+2 B6 1 B5 0
+refuel_plane1_city2_fl2_fl3
+2 B5 1 B2 1
+2 B6 1 B5 0
+refuel_plane1_city0_fl3_fl4
+2 B6 1 B0 1
+2 B7 1 B6 0
+refuel_plane1_city1_fl3_fl4
+2 B6 1 B1 1
+2 B7 1 B6 0
+refuel_plane1_city2_fl3_fl4
+2 B6 1 B2 1
+2 B7 1 B6 0
+refuel_plane1_city0_fl4_fl5
+2 B7 1 B0 1
+2 B8 1 B7 0
+refuel_plane1_city1_fl4_fl5
+2 B7 1 B1 1
+2 B8 1 B7 0
+refuel_plane1_city2_fl4_fl5
+2 B7 1 B2 1
+2 B8 1 B7 0
+refuel_plane1_city0_fl5_fl6
+2 B8 1 B0 1
+2 B9 1 B8 0
+refuel_plane1_city1_fl5_fl6
+2 B8 1 B1 1
+2 B9 1 B8 0
+refuel_plane1_city2_fl5_fl6
+2 B8 1 B2 1
+2 B9 1 B8 0

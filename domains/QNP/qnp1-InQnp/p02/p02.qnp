@@ -1,0 +1,14 @@
+p02
+3 gr0_v1 1 gr0_v2 1 p 0
+3 gr0_v1 1 gr0_v2 1 p 1
+1 gr0_v2 0
+3
+b
+1 p 0
+1 p 1
+a_v0_v1
+2 gr0_v1 1 p 1
+2 gr0_v1 0 p 0
+a_v1_v2
+3 gr0_v1 0 gr0_v2 1 p 1
+2 gr0_v2 0 p 0
