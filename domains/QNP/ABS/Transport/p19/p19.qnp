@@ -1,0 +1,3869 @@
+abstraction for transport-transport-three-cities-sequential-5nodes-1000size-3degree-100mindistance-2trucks-6packages-2008seed
+125 N0 1 N1 1 N2 1 N3 1 N4 1 N5 1 N6 1 N7 1 N8 1 N9 1 N10 1 N11 1 N12 1 N13 1 N14 1 N15 1 N16 1 N17 1 N18 1 N19 1 N20 1 N21 1 N22 1 N23 1 N24 1 N25 1 N26 1 N27 1 N28 1 N29 1 N30 1 N31 1 N32 1 N33 1 N34 1 N35 1 N36 1 N37 1 N38 1 N39 1 N40 1 N41 1 N42 1 N43 1 N44 1 N45 1 N46 1 N47 1 N48 1 N49 1 N50 1 N51 1 N52 1 N53 1 N54 1 N55 1 N56 1 N57 1 N58 1 N59 1 N60 1 N61 1 N62 1 N63 1 N64 1 N65 1 N66 1 N67 1 N68 1 N69 1 N70 1 N71 1 N72 1 N73 1 N74 1 N75 1 N76 1 N77 1 N78 1 N79 1 N80 1 N81 1 N82 1 N83 1 N84 1 B0 0 B1 0 B2 0 B3 0 B4 0 B5 0 B6 0 B7 0 B8 0 B9 0 B10 0 B11 0 B12 0 B13 0 B14 0 B15 0 B16 0 B17 0 B18 0 B19 0 B20 0 B21 0 B22 0 B23 0 B24 0 B25 0 B26 0 B27 0 B28 0 B29 0 B30 0 B31 0 B32 0 B33 0 B34 0 B35 0 B36 0 B37 0 B38 0 B39 0
+125 B28 1 B39 1 B0 1 B33 1 B1 0 B2 0 B3 0 B4 0 B5 0 B6 0 B7 0 B8 0 B9 0 B10 0 B11 0 B12 0 B13 0 B14 0 B15 0 B16 0 B17 0 B18 0 B19 0 B20 0 B21 0 B22 0 B23 0 B24 0 B25 0 B26 0 B27 0 B29 0 B30 0 B31 0 B32 0 B34 0 B35 0 B36 0 B37 0 B38 0 N0 0 N1 0 N2 1 N3 0 N4 0 N5 0 N6 0 N7 0 N8 0 N9 0 N10 0 N11 0 N12 0 N13 0 N14 1 N15 0 N16 0 N17 0 N18 0 N19 0 N20 1 N21 0 N22 0 N23 0 N24 0 N25 0 N26 0 N27 0 N28 0 N29 0 N30 0 N31 0 N32 0 N33 0 N34 0 N35 0 N36 0 N37 0 N38 0 N39 0 N40 0 N41 0 N42 1 N43 0 N44 0 N45 0 N46 0 N47 0 N48 0 N49 0 N50 0 N51 0 N52 1 N53 0 N54 0 N55 0 N56 0 N57 0 N58 0 N59 0 N60 0 N61 0 N62 0 N63 0 N64 0 N65 0 N66 0 N67 0 N68 0 N69 0 N70 0 N71 0 N72 0 N73 0 N74 0 N75 0 N76 0 N77 0 N78 1 N79 0 N80 0 N81 0 N82 0 N83 0 N84 0
+80 N0 0 N1 0 N2 0 N3 0 N5 0 N6 0 N7 0 N8 0 N9 0 N10 0 N11 0 N12 0 N13 0 N14 0 N15 0 N16 0 N17 0 N19 0 N20 0 N21 0 N22 0 N23 0 N24 0 N25 0 N26 0 N27 0 N28 0 N29 0 N30 0 N31 0 N32 0 N33 0 N34 0 N35 0 N36 0 N37 0 N38 0 N39 0 N40 0 N41 0 N42 0 N43 0 N45 0 N46 0 N47 0 N48 0 N49 0 N50 0 N51 0 N52 0 N53 0 N54 0 N55 0 N56 0 N57 0 N58 0 N59 0 N60 0 N61 0 N62 0 N64 0 N65 0 N66 0 N67 0 N68 0 N69 0 N70 0 N72 0 N73 0 N74 0 N75 0 N76 0 N77 0 N78 0 N79 0 N80 0 N81 0 N82 0 N83 0 N84 0
+1288
+drive_truck-1_city-1-loc-1_city-1-loc-3
+1 B0 1
+2 B6 1 B0 0
+drive_truck-2_city-1-loc-1_city-1-loc-3
+1 B15 1
+2 B21 1 B15 0
+drive_truck-1_city-1-loc-1_city-1-loc-4
+1 B0 1
+2 B9 1 B0 0
+drive_truck-2_city-1-loc-1_city-1-loc-4
+1 B15 1
+2 B24 1 B15 0
+drive_truck-1_city-1-loc-1_city-1-loc-5
+1 B0 1
+2 B12 1 B0 0
+drive_truck-2_city-1-loc-1_city-1-loc-5
+1 B15 1
+2 B27 1 B15 0
+drive_truck-1_city-1-loc-2_city-1-loc-3
+1 B3 1
+2 B6 1 B3 0
+drive_truck-2_city-1-loc-2_city-1-loc-3
+1 B18 1
+2 B21 1 B18 0
+drive_truck-1_city-1-loc-3_city-1-loc-1
+1 B6 1
+2 B0 1 B6 0
+drive_truck-2_city-1-loc-3_city-1-loc-1
+1 B21 1
+2 B15 1 B21 0
+drive_truck-1_city-1-loc-3_city-1-loc-2
+1 B6 1
+2 B3 1 B6 0
+drive_truck-2_city-1-loc-3_city-1-loc-2
+1 B21 1
+2 B18 1 B21 0
+drive_truck-1_city-1-loc-3_city-1-loc-4
+1 B6 1
+2 B9 1 B6 0
+drive_truck-2_city-1-loc-3_city-1-loc-4
+1 B21 1
+2 B24 1 B21 0
+drive_truck-1_city-1-loc-4_city-1-loc-1
+1 B9 1
+2 B0 1 B9 0
+drive_truck-2_city-1-loc-4_city-1-loc-1
+1 B24 1
+2 B15 1 B24 0
+drive_truck-1_city-1-loc-4_city-1-loc-3
+1 B9 1
+2 B6 1 B9 0
+drive_truck-2_city-1-loc-4_city-1-loc-3
+1 B24 1
+2 B21 1 B24 0
+drive_truck-1_city-1-loc-4_city-1-loc-5
+1 B9 1
+2 B12 1 B9 0
+drive_truck-2_city-1-loc-4_city-1-loc-5
+1 B24 1
+2 B27 1 B24 0
+drive_truck-1_city-1-loc-5_city-1-loc-1
+1 B12 1
+2 B0 1 B12 0
+drive_truck-2_city-1-loc-5_city-1-loc-1
+1 B27 1
+2 B15 1 B27 0
+drive_truck-1_city-1-loc-5_city-1-loc-4
+1 B12 1
+2 B9 1 B12 0
+drive_truck-2_city-1-loc-5_city-1-loc-4
+1 B27 1
+2 B24 1 B27 0
+drive_truck-1_city-1-loc-5_city-2-loc-4
+1 B12 1
+2 B10 1 B12 0
+drive_truck-2_city-1-loc-5_city-2-loc-4
+1 B27 1
+2 B25 1 B27 0
+drive_truck-1_city-1-loc-5_city-3-loc-4
+1 B12 1
+2 B11 1 B12 0
+drive_truck-2_city-1-loc-5_city-3-loc-4
+1 B27 1
+2 B26 1 B27 0
+drive_truck-1_city-2-loc-1_city-2-loc-2
+1 B1 1
+2 B4 1 B1 0
+drive_truck-2_city-2-loc-1_city-2-loc-2
+1 B16 1
+2 B19 1 B16 0
+drive_truck-1_city-2-loc-1_city-2-loc-4
+1 B1 1
+2 B10 1 B1 0
+drive_truck-2_city-2-loc-1_city-2-loc-4
+1 B16 1
+2 B25 1 B16 0
+drive_truck-1_city-2-loc-1_city-2-loc-5
+1 B1 1
+2 B13 1 B1 0
+drive_truck-2_city-2-loc-1_city-2-loc-5
+1 B16 1
+2 B28 1 B16 0
+drive_truck-1_city-2-loc-1_city-3-loc-1
+1 B1 1
+2 B2 1 B1 0
+drive_truck-2_city-2-loc-1_city-3-loc-1
+1 B16 1
+2 B17 1 B16 0
+drive_truck-1_city-2-loc-2_city-2-loc-1
+1 B4 1
+2 B1 1 B4 0
+drive_truck-2_city-2-loc-2_city-2-loc-1
+1 B19 1
+2 B16 1 B19 0
+drive_truck-1_city-2-loc-2_city-2-loc-3
+1 B4 1
+2 B7 1 B4 0
+drive_truck-2_city-2-loc-2_city-2-loc-3
+1 B19 1
+2 B22 1 B19 0
+drive_truck-1_city-2-loc-2_city-2-loc-4
+1 B4 1
+2 B10 1 B4 0
+drive_truck-2_city-2-loc-2_city-2-loc-4
+1 B19 1
+2 B25 1 B19 0
+drive_truck-1_city-2-loc-2_city-2-loc-5
+1 B4 1
+2 B13 1 B4 0
+drive_truck-2_city-2-loc-2_city-2-loc-5
+1 B19 1
+2 B28 1 B19 0
+drive_truck-1_city-2-loc-3_city-2-loc-2
+1 B7 1
+2 B4 1 B7 0
+drive_truck-2_city-2-loc-3_city-2-loc-2
+1 B22 1
+2 B19 1 B22 0
+drive_truck-1_city-2-loc-3_city-2-loc-4
+1 B7 1
+2 B10 1 B7 0
+drive_truck-2_city-2-loc-3_city-2-loc-4
+1 B22 1
+2 B25 1 B22 0
+drive_truck-1_city-2-loc-3_city-2-loc-5
+1 B7 1
+2 B13 1 B7 0
+drive_truck-2_city-2-loc-3_city-2-loc-5
+1 B22 1
+2 B28 1 B22 0
+drive_truck-1_city-2-loc-4_city-1-loc-5
+1 B10 1
+2 B12 1 B10 0
+drive_truck-2_city-2-loc-4_city-1-loc-5
+1 B25 1
+2 B27 1 B25 0
+drive_truck-1_city-2-loc-4_city-2-loc-1
+1 B10 1
+2 B1 1 B10 0
+drive_truck-2_city-2-loc-4_city-2-loc-1
+1 B25 1
+2 B16 1 B25 0
+drive_truck-1_city-2-loc-4_city-2-loc-2
+1 B10 1
+2 B4 1 B10 0
+drive_truck-2_city-2-loc-4_city-2-loc-2
+1 B25 1
+2 B19 1 B25 0
+drive_truck-1_city-2-loc-4_city-2-loc-3
+1 B10 1
+2 B7 1 B10 0
+drive_truck-2_city-2-loc-4_city-2-loc-3
+1 B25 1
+2 B22 1 B25 0
+drive_truck-1_city-2-loc-4_city-2-loc-5
+1 B10 1
+2 B13 1 B10 0
+drive_truck-2_city-2-loc-4_city-2-loc-5
+1 B25 1
+2 B28 1 B25 0
+drive_truck-1_city-2-loc-5_city-2-loc-1
+1 B13 1
+2 B1 1 B13 0
+drive_truck-2_city-2-loc-5_city-2-loc-1
+1 B28 1
+2 B16 1 B28 0
+drive_truck-1_city-2-loc-5_city-2-loc-2
+1 B13 1
+2 B4 1 B13 0
+drive_truck-2_city-2-loc-5_city-2-loc-2
+1 B28 1
+2 B19 1 B28 0
+drive_truck-1_city-2-loc-5_city-2-loc-3
+1 B13 1
+2 B7 1 B13 0
+drive_truck-2_city-2-loc-5_city-2-loc-3
+1 B28 1
+2 B22 1 B28 0
+drive_truck-1_city-2-loc-5_city-2-loc-4
+1 B13 1
+2 B10 1 B13 0
+drive_truck-2_city-2-loc-5_city-2-loc-4
+1 B28 1
+2 B25 1 B28 0
+drive_truck-1_city-3-loc-1_city-2-loc-1
+1 B2 1
+2 B1 1 B2 0
+drive_truck-2_city-3-loc-1_city-2-loc-1
+1 B17 1
+2 B16 1 B17 0
+drive_truck-1_city-3-loc-1_city-3-loc-2
+1 B2 1
+2 B5 1 B2 0
+drive_truck-2_city-3-loc-1_city-3-loc-2
+1 B17 1
+2 B20 1 B17 0
+drive_truck-1_city-3-loc-1_city-3-loc-3
+1 B2 1
+2 B8 1 B2 0
+drive_truck-2_city-3-loc-1_city-3-loc-3
+1 B17 1
+2 B23 1 B17 0
+drive_truck-1_city-3-loc-1_city-3-loc-4
+1 B2 1
+2 B11 1 B2 0
+drive_truck-2_city-3-loc-1_city-3-loc-4
+1 B17 1
+2 B26 1 B17 0
+drive_truck-1_city-3-loc-2_city-3-loc-1
+1 B5 1
+2 B2 1 B5 0
+drive_truck-2_city-3-loc-2_city-3-loc-1
+1 B20 1
+2 B17 1 B20 0
+drive_truck-1_city-3-loc-2_city-3-loc-5
+1 B5 1
+2 B14 1 B5 0
+drive_truck-2_city-3-loc-2_city-3-loc-5
+1 B20 1
+2 B29 1 B20 0
+drive_truck-1_city-3-loc-3_city-3-loc-1
+1 B8 1
+2 B2 1 B8 0
+drive_truck-2_city-3-loc-3_city-3-loc-1
+1 B23 1
+2 B17 1 B23 0
+drive_truck-1_city-3-loc-4_city-1-loc-5
+1 B11 1
+2 B12 1 B11 0
+drive_truck-2_city-3-loc-4_city-1-loc-5
+1 B26 1
+2 B27 1 B26 0
+drive_truck-1_city-3-loc-4_city-3-loc-1
+1 B11 1
+2 B2 1 B11 0
+drive_truck-2_city-3-loc-4_city-3-loc-1
+1 B26 1
+2 B17 1 B26 0
+drive_truck-1_city-3-loc-5_city-3-loc-2
+1 B14 1
+2 B5 1 B14 0
+drive_truck-2_city-3-loc-5_city-3-loc-2
+1 B29 1
+2 B20 1 B29 0
+pick-up_st1_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B31 1 N0 1
+4 B30 1 B31 0 N0 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B31 1 N17 1
+4 B30 1 B31 0 N17 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B31 1 N34 1
+4 B30 1 B31 0 N34 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B31 1 N51 1
+4 B30 1 B31 0 N51 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B31 1 N68 1
+4 B30 1 B31 0 N68 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B31 1 N1 1
+4 B30 1 B31 0 N1 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B31 1 N18 1
+4 B30 1 B31 0 N18 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B31 1 N35 1
+4 B30 1 B31 0 N35 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B31 1 N52 1
+4 B30 1 B31 0 N52 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B31 1 N69 1
+4 B30 1 B31 0 N69 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B31 1 N2 1
+4 B30 1 B31 0 N2 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B31 1 N19 1
+4 B30 1 B31 0 N19 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B31 1 N36 1
+4 B30 1 B31 0 N36 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B31 1 N53 1
+4 B30 1 B31 0 N53 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B31 1 N70 1
+4 B30 1 B31 0 N70 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B31 1 N3 1
+4 B30 1 B31 0 N3 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B31 1 N20 1
+4 B30 1 B31 0 N20 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B31 1 N37 1
+4 B30 1 B31 0 N37 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B31 1 N54 1
+4 B30 1 B31 0 N54 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B31 1 N71 1
+4 B30 1 B31 0 N71 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B31 1 N4 1
+4 B30 1 B31 0 N4 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B31 1 N21 1
+4 B30 1 B31 0 N21 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B31 1 N38 1
+4 B30 1 B31 0 N38 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B31 1 N55 1
+4 B30 1 B31 0 N55 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B31 1 N72 1
+4 B30 1 B31 0 N72 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B31 1 N5 1
+4 B30 1 B31 0 N5 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B31 1 N22 1
+4 B30 1 B31 0 N22 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B31 1 N39 1
+4 B30 1 B31 0 N39 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B31 1 N56 1
+4 B30 1 B31 0 N56 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B31 1 N73 1
+4 B30 1 B31 0 N73 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B31 1 N6 1
+4 B30 1 B31 0 N6 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B31 1 N23 1
+4 B30 1 B31 0 N23 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B31 1 N40 1
+4 B30 1 B31 0 N40 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B31 1 N57 1
+4 B30 1 B31 0 N57 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B31 1 N74 1
+4 B30 1 B31 0 N74 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B31 1 N7 1
+4 B30 1 B31 0 N7 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B31 1 N24 1
+4 B30 1 B31 0 N24 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B31 1 N41 1
+4 B30 1 B31 0 N41 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B31 1 N58 1
+4 B30 1 B31 0 N58 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B31 1 N75 1
+4 B30 1 B31 0 N75 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B31 1 N8 1
+4 B30 1 B31 0 N8 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B31 1 N25 1
+4 B30 1 B31 0 N25 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B31 1 N42 1
+4 B30 1 B31 0 N42 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B31 1 N59 1
+4 B30 1 B31 0 N59 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B31 1 N76 1
+4 B30 1 B31 0 N76 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B31 1 N9 1
+4 B30 1 B31 0 N9 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B31 1 N26 1
+4 B30 1 B31 0 N26 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B31 1 N43 1
+4 B30 1 B31 0 N43 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B31 1 N60 1
+4 B30 1 B31 0 N60 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B31 1 N77 1
+4 B30 1 B31 0 N77 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B31 1 N10 1
+4 B30 1 B31 0 N10 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B31 1 N27 1
+4 B30 1 B31 0 N27 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B31 1 N44 1
+4 B30 1 B31 0 N44 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B31 1 N61 1
+4 B30 1 B31 0 N61 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B31 1 N78 1
+4 B30 1 B31 0 N78 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B31 1 N11 1
+4 B30 1 B31 0 N11 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B31 1 N28 1
+4 B30 1 B31 0 N28 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B31 1 N45 1
+4 B30 1 B31 0 N45 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B31 1 N62 1
+4 B30 1 B31 0 N62 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B31 1 N79 1
+4 B30 1 B31 0 N79 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B31 1 N12 1
+4 B30 1 B31 0 N12 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B31 1 N29 1
+4 B30 1 B31 0 N29 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B31 1 N46 1
+4 B30 1 B31 0 N46 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B31 1 N63 1
+4 B30 1 B31 0 N63 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B31 1 N80 1
+4 B30 1 B31 0 N80 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B31 1 N13 1
+4 B30 1 B31 0 N13 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B31 1 N30 1
+4 B30 1 B31 0 N30 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B31 1 N47 1
+4 B30 1 B31 0 N47 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B31 1 N64 1
+4 B30 1 B31 0 N64 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B31 1 N81 1
+4 B30 1 B31 0 N81 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B31 1 N14 1
+4 B30 1 B31 0 N14 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B31 1 N31 1
+4 B30 1 B31 0 N31 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B31 1 N48 1
+4 B30 1 B31 0 N48 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B31 1 N65 1
+4 B30 1 B31 0 N65 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B31 1 N82 1
+4 B30 1 B31 0 N82 0 N83 1
+pick-up_st1_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B36 1 N0 1
+4 B35 1 B36 0 N0 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B36 1 N17 1
+4 B35 1 B36 0 N17 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B36 1 N34 1
+4 B35 1 B36 0 N34 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B36 1 N51 1
+4 B35 1 B36 0 N51 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B36 1 N68 1
+4 B35 1 B36 0 N68 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B36 1 N1 1
+4 B35 1 B36 0 N1 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B36 1 N18 1
+4 B35 1 B36 0 N18 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B36 1 N35 1
+4 B35 1 B36 0 N35 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B36 1 N52 1
+4 B35 1 B36 0 N52 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B36 1 N69 1
+4 B35 1 B36 0 N69 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B36 1 N2 1
+4 B35 1 B36 0 N2 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B36 1 N19 1
+4 B35 1 B36 0 N19 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B36 1 N36 1
+4 B35 1 B36 0 N36 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B36 1 N53 1
+4 B35 1 B36 0 N53 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B36 1 N70 1
+4 B35 1 B36 0 N70 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B36 1 N3 1
+4 B35 1 B36 0 N3 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B36 1 N20 1
+4 B35 1 B36 0 N20 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B36 1 N37 1
+4 B35 1 B36 0 N37 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B36 1 N54 1
+4 B35 1 B36 0 N54 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B36 1 N71 1
+4 B35 1 B36 0 N71 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B36 1 N4 1
+4 B35 1 B36 0 N4 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B36 1 N21 1
+4 B35 1 B36 0 N21 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B36 1 N38 1
+4 B35 1 B36 0 N38 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B36 1 N55 1
+4 B35 1 B36 0 N55 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B36 1 N72 1
+4 B35 1 B36 0 N72 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B36 1 N5 1
+4 B35 1 B36 0 N5 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B36 1 N22 1
+4 B35 1 B36 0 N22 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B36 1 N39 1
+4 B35 1 B36 0 N39 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B36 1 N56 1
+4 B35 1 B36 0 N56 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B36 1 N73 1
+4 B35 1 B36 0 N73 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B36 1 N6 1
+4 B35 1 B36 0 N6 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B36 1 N23 1
+4 B35 1 B36 0 N23 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B36 1 N40 1
+4 B35 1 B36 0 N40 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B36 1 N57 1
+4 B35 1 B36 0 N57 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B36 1 N74 1
+4 B35 1 B36 0 N74 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B36 1 N7 1
+4 B35 1 B36 0 N7 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B36 1 N24 1
+4 B35 1 B36 0 N24 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B36 1 N41 1
+4 B35 1 B36 0 N41 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B36 1 N58 1
+4 B35 1 B36 0 N58 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B36 1 N75 1
+4 B35 1 B36 0 N75 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B36 1 N8 1
+4 B35 1 B36 0 N8 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B36 1 N25 1
+4 B35 1 B36 0 N25 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B36 1 N42 1
+4 B35 1 B36 0 N42 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B36 1 N59 1
+4 B35 1 B36 0 N59 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B36 1 N76 1
+4 B35 1 B36 0 N76 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B36 1 N9 1
+4 B35 1 B36 0 N9 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B36 1 N26 1
+4 B35 1 B36 0 N26 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B36 1 N43 1
+4 B35 1 B36 0 N43 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B36 1 N60 1
+4 B35 1 B36 0 N60 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B36 1 N77 1
+4 B35 1 B36 0 N77 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B36 1 N10 1
+4 B35 1 B36 0 N10 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B36 1 N27 1
+4 B35 1 B36 0 N27 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B36 1 N44 1
+4 B35 1 B36 0 N44 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B36 1 N61 1
+4 B35 1 B36 0 N61 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B36 1 N78 1
+4 B35 1 B36 0 N78 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B36 1 N11 1
+4 B35 1 B36 0 N11 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B36 1 N28 1
+4 B35 1 B36 0 N28 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B36 1 N45 1
+4 B35 1 B36 0 N45 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B36 1 N62 1
+4 B35 1 B36 0 N62 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B36 1 N79 1
+4 B35 1 B36 0 N79 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B36 1 N12 1
+4 B35 1 B36 0 N12 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B36 1 N29 1
+4 B35 1 B36 0 N29 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B36 1 N46 1
+4 B35 1 B36 0 N46 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B36 1 N63 1
+4 B35 1 B36 0 N63 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B36 1 N80 1
+4 B35 1 B36 0 N80 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B36 1 N13 1
+4 B35 1 B36 0 N13 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B36 1 N30 1
+4 B35 1 B36 0 N30 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B36 1 N47 1
+4 B35 1 B36 0 N47 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B36 1 N64 1
+4 B35 1 B36 0 N64 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B36 1 N81 1
+4 B35 1 B36 0 N81 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B36 1 N14 1
+4 B35 1 B36 0 N14 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B36 1 N31 1
+4 B35 1 B36 0 N31 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B36 1 N48 1
+4 B35 1 B36 0 N48 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B36 1 N65 1
+4 B35 1 B36 0 N65 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B36 1 N82 1
+4 B35 1 B36 0 N82 0 N84 1
+pick-up_st1_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B32 1 N0 1
+4 B31 1 B32 0 N0 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B32 1 N17 1
+4 B31 1 B32 0 N17 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B32 1 N34 1
+4 B31 1 B32 0 N34 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B32 1 N51 1
+4 B31 1 B32 0 N51 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B32 1 N68 1
+4 B31 1 B32 0 N68 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B32 1 N1 1
+4 B31 1 B32 0 N1 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B32 1 N18 1
+4 B31 1 B32 0 N18 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B32 1 N35 1
+4 B31 1 B32 0 N35 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B32 1 N52 1
+4 B31 1 B32 0 N52 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B32 1 N69 1
+4 B31 1 B32 0 N69 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B32 1 N2 1
+4 B31 1 B32 0 N2 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B32 1 N19 1
+4 B31 1 B32 0 N19 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B32 1 N36 1
+4 B31 1 B32 0 N36 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B32 1 N53 1
+4 B31 1 B32 0 N53 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B32 1 N70 1
+4 B31 1 B32 0 N70 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B32 1 N3 1
+4 B31 1 B32 0 N3 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B32 1 N20 1
+4 B31 1 B32 0 N20 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B32 1 N37 1
+4 B31 1 B32 0 N37 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B32 1 N54 1
+4 B31 1 B32 0 N54 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B32 1 N71 1
+4 B31 1 B32 0 N71 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B32 1 N4 1
+4 B31 1 B32 0 N4 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B32 1 N21 1
+4 B31 1 B32 0 N21 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B32 1 N38 1
+4 B31 1 B32 0 N38 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B32 1 N55 1
+4 B31 1 B32 0 N55 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B32 1 N72 1
+4 B31 1 B32 0 N72 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B32 1 N5 1
+4 B31 1 B32 0 N5 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B32 1 N22 1
+4 B31 1 B32 0 N22 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B32 1 N39 1
+4 B31 1 B32 0 N39 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B32 1 N56 1
+4 B31 1 B32 0 N56 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B32 1 N73 1
+4 B31 1 B32 0 N73 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B32 1 N6 1
+4 B31 1 B32 0 N6 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B32 1 N23 1
+4 B31 1 B32 0 N23 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B32 1 N40 1
+4 B31 1 B32 0 N40 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B32 1 N57 1
+4 B31 1 B32 0 N57 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B32 1 N74 1
+4 B31 1 B32 0 N74 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B32 1 N7 1
+4 B31 1 B32 0 N7 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B32 1 N24 1
+4 B31 1 B32 0 N24 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B32 1 N41 1
+4 B31 1 B32 0 N41 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B32 1 N58 1
+4 B31 1 B32 0 N58 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B32 1 N75 1
+4 B31 1 B32 0 N75 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B32 1 N8 1
+4 B31 1 B32 0 N8 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B32 1 N25 1
+4 B31 1 B32 0 N25 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B32 1 N42 1
+4 B31 1 B32 0 N42 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B32 1 N59 1
+4 B31 1 B32 0 N59 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B32 1 N76 1
+4 B31 1 B32 0 N76 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B32 1 N9 1
+4 B31 1 B32 0 N9 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B32 1 N26 1
+4 B31 1 B32 0 N26 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B32 1 N43 1
+4 B31 1 B32 0 N43 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B32 1 N60 1
+4 B31 1 B32 0 N60 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B32 1 N77 1
+4 B31 1 B32 0 N77 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B32 1 N10 1
+4 B31 1 B32 0 N10 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B32 1 N27 1
+4 B31 1 B32 0 N27 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B32 1 N44 1
+4 B31 1 B32 0 N44 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B32 1 N61 1
+4 B31 1 B32 0 N61 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B32 1 N78 1
+4 B31 1 B32 0 N78 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B32 1 N11 1
+4 B31 1 B32 0 N11 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B32 1 N28 1
+4 B31 1 B32 0 N28 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B32 1 N45 1
+4 B31 1 B32 0 N45 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B32 1 N62 1
+4 B31 1 B32 0 N62 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B32 1 N79 1
+4 B31 1 B32 0 N79 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B32 1 N12 1
+4 B31 1 B32 0 N12 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B32 1 N29 1
+4 B31 1 B32 0 N29 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B32 1 N46 1
+4 B31 1 B32 0 N46 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B32 1 N63 1
+4 B31 1 B32 0 N63 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B32 1 N80 1
+4 B31 1 B32 0 N80 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B32 1 N13 1
+4 B31 1 B32 0 N13 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B32 1 N30 1
+4 B31 1 B32 0 N30 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B32 1 N47 1
+4 B31 1 B32 0 N47 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B32 1 N64 1
+4 B31 1 B32 0 N64 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B32 1 N81 1
+4 B31 1 B32 0 N81 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B32 1 N14 1
+4 B31 1 B32 0 N14 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B32 1 N31 1
+4 B31 1 B32 0 N31 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B32 1 N48 1
+4 B31 1 B32 0 N48 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B32 1 N65 1
+4 B31 1 B32 0 N65 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B32 1 N82 1
+4 B31 1 B32 0 N82 0 N83 1
+pick-up_st1_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B37 1 N0 1
+4 B36 1 B37 0 N0 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B37 1 N17 1
+4 B36 1 B37 0 N17 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B37 1 N34 1
+4 B36 1 B37 0 N34 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B37 1 N51 1
+4 B36 1 B37 0 N51 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B37 1 N68 1
+4 B36 1 B37 0 N68 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B37 1 N1 1
+4 B36 1 B37 0 N1 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B37 1 N18 1
+4 B36 1 B37 0 N18 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B37 1 N35 1
+4 B36 1 B37 0 N35 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B37 1 N52 1
+4 B36 1 B37 0 N52 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B37 1 N69 1
+4 B36 1 B37 0 N69 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B37 1 N2 1
+4 B36 1 B37 0 N2 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B37 1 N19 1
+4 B36 1 B37 0 N19 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B37 1 N36 1
+4 B36 1 B37 0 N36 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B37 1 N53 1
+4 B36 1 B37 0 N53 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B37 1 N70 1
+4 B36 1 B37 0 N70 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B37 1 N3 1
+4 B36 1 B37 0 N3 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B37 1 N20 1
+4 B36 1 B37 0 N20 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B37 1 N37 1
+4 B36 1 B37 0 N37 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B37 1 N54 1
+4 B36 1 B37 0 N54 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B37 1 N71 1
+4 B36 1 B37 0 N71 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B37 1 N4 1
+4 B36 1 B37 0 N4 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B37 1 N21 1
+4 B36 1 B37 0 N21 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B37 1 N38 1
+4 B36 1 B37 0 N38 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B37 1 N55 1
+4 B36 1 B37 0 N55 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B37 1 N72 1
+4 B36 1 B37 0 N72 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B37 1 N5 1
+4 B36 1 B37 0 N5 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B37 1 N22 1
+4 B36 1 B37 0 N22 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B37 1 N39 1
+4 B36 1 B37 0 N39 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B37 1 N56 1
+4 B36 1 B37 0 N56 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B37 1 N73 1
+4 B36 1 B37 0 N73 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B37 1 N6 1
+4 B36 1 B37 0 N6 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B37 1 N23 1
+4 B36 1 B37 0 N23 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B37 1 N40 1
+4 B36 1 B37 0 N40 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B37 1 N57 1
+4 B36 1 B37 0 N57 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B37 1 N74 1
+4 B36 1 B37 0 N74 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B37 1 N7 1
+4 B36 1 B37 0 N7 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B37 1 N24 1
+4 B36 1 B37 0 N24 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B37 1 N41 1
+4 B36 1 B37 0 N41 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B37 1 N58 1
+4 B36 1 B37 0 N58 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B37 1 N75 1
+4 B36 1 B37 0 N75 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B37 1 N8 1
+4 B36 1 B37 0 N8 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B37 1 N25 1
+4 B36 1 B37 0 N25 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B37 1 N42 1
+4 B36 1 B37 0 N42 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B37 1 N59 1
+4 B36 1 B37 0 N59 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B37 1 N76 1
+4 B36 1 B37 0 N76 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B37 1 N9 1
+4 B36 1 B37 0 N9 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B37 1 N26 1
+4 B36 1 B37 0 N26 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B37 1 N43 1
+4 B36 1 B37 0 N43 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B37 1 N60 1
+4 B36 1 B37 0 N60 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B37 1 N77 1
+4 B36 1 B37 0 N77 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B37 1 N10 1
+4 B36 1 B37 0 N10 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B37 1 N27 1
+4 B36 1 B37 0 N27 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B37 1 N44 1
+4 B36 1 B37 0 N44 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B37 1 N61 1
+4 B36 1 B37 0 N61 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B37 1 N78 1
+4 B36 1 B37 0 N78 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B37 1 N11 1
+4 B36 1 B37 0 N11 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B37 1 N28 1
+4 B36 1 B37 0 N28 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B37 1 N45 1
+4 B36 1 B37 0 N45 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B37 1 N62 1
+4 B36 1 B37 0 N62 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B37 1 N79 1
+4 B36 1 B37 0 N79 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B37 1 N12 1
+4 B36 1 B37 0 N12 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B37 1 N29 1
+4 B36 1 B37 0 N29 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B37 1 N46 1
+4 B36 1 B37 0 N46 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B37 1 N63 1
+4 B36 1 B37 0 N63 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B37 1 N80 1
+4 B36 1 B37 0 N80 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B37 1 N13 1
+4 B36 1 B37 0 N13 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B37 1 N30 1
+4 B36 1 B37 0 N30 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B37 1 N47 1
+4 B36 1 B37 0 N47 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B37 1 N64 1
+4 B36 1 B37 0 N64 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B37 1 N81 1
+4 B36 1 B37 0 N81 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B37 1 N14 1
+4 B36 1 B37 0 N14 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B37 1 N31 1
+4 B36 1 B37 0 N31 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B37 1 N48 1
+4 B36 1 B37 0 N48 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B37 1 N65 1
+4 B36 1 B37 0 N65 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B37 1 N82 1
+4 B36 1 B37 0 N82 0 N84 1
+pick-up_st1_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B33 1 N0 1
+4 B32 1 B33 0 N0 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B33 1 N17 1
+4 B32 1 B33 0 N17 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B33 1 N34 1
+4 B32 1 B33 0 N34 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B33 1 N51 1
+4 B32 1 B33 0 N51 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B33 1 N68 1
+4 B32 1 B33 0 N68 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B33 1 N1 1
+4 B32 1 B33 0 N1 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B33 1 N18 1
+4 B32 1 B33 0 N18 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B33 1 N35 1
+4 B32 1 B33 0 N35 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B33 1 N52 1
+4 B32 1 B33 0 N52 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B33 1 N69 1
+4 B32 1 B33 0 N69 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B33 1 N2 1
+4 B32 1 B33 0 N2 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B33 1 N19 1
+4 B32 1 B33 0 N19 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B33 1 N36 1
+4 B32 1 B33 0 N36 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B33 1 N53 1
+4 B32 1 B33 0 N53 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B33 1 N70 1
+4 B32 1 B33 0 N70 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B33 1 N3 1
+4 B32 1 B33 0 N3 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B33 1 N20 1
+4 B32 1 B33 0 N20 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B33 1 N37 1
+4 B32 1 B33 0 N37 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B33 1 N54 1
+4 B32 1 B33 0 N54 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B33 1 N71 1
+4 B32 1 B33 0 N71 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B33 1 N4 1
+4 B32 1 B33 0 N4 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B33 1 N21 1
+4 B32 1 B33 0 N21 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B33 1 N38 1
+4 B32 1 B33 0 N38 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B33 1 N55 1
+4 B32 1 B33 0 N55 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B33 1 N72 1
+4 B32 1 B33 0 N72 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B33 1 N5 1
+4 B32 1 B33 0 N5 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B33 1 N22 1
+4 B32 1 B33 0 N22 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B33 1 N39 1
+4 B32 1 B33 0 N39 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B33 1 N56 1
+4 B32 1 B33 0 N56 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B33 1 N73 1
+4 B32 1 B33 0 N73 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B33 1 N6 1
+4 B32 1 B33 0 N6 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B33 1 N23 1
+4 B32 1 B33 0 N23 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B33 1 N40 1
+4 B32 1 B33 0 N40 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B33 1 N57 1
+4 B32 1 B33 0 N57 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B33 1 N74 1
+4 B32 1 B33 0 N74 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B33 1 N7 1
+4 B32 1 B33 0 N7 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B33 1 N24 1
+4 B32 1 B33 0 N24 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B33 1 N41 1
+4 B32 1 B33 0 N41 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B33 1 N58 1
+4 B32 1 B33 0 N58 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B33 1 N75 1
+4 B32 1 B33 0 N75 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B33 1 N8 1
+4 B32 1 B33 0 N8 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B33 1 N25 1
+4 B32 1 B33 0 N25 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B33 1 N42 1
+4 B32 1 B33 0 N42 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B33 1 N59 1
+4 B32 1 B33 0 N59 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B33 1 N76 1
+4 B32 1 B33 0 N76 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B33 1 N9 1
+4 B32 1 B33 0 N9 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B33 1 N26 1
+4 B32 1 B33 0 N26 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B33 1 N43 1
+4 B32 1 B33 0 N43 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B33 1 N60 1
+4 B32 1 B33 0 N60 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B33 1 N77 1
+4 B32 1 B33 0 N77 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B33 1 N10 1
+4 B32 1 B33 0 N10 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B33 1 N27 1
+4 B32 1 B33 0 N27 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B33 1 N44 1
+4 B32 1 B33 0 N44 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B33 1 N61 1
+4 B32 1 B33 0 N61 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B33 1 N78 1
+4 B32 1 B33 0 N78 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B33 1 N11 1
+4 B32 1 B33 0 N11 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B33 1 N28 1
+4 B32 1 B33 0 N28 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B33 1 N45 1
+4 B32 1 B33 0 N45 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B33 1 N62 1
+4 B32 1 B33 0 N62 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B33 1 N79 1
+4 B32 1 B33 0 N79 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B33 1 N12 1
+4 B32 1 B33 0 N12 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B33 1 N29 1
+4 B32 1 B33 0 N29 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B33 1 N46 1
+4 B32 1 B33 0 N46 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B33 1 N63 1
+4 B32 1 B33 0 N63 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B33 1 N80 1
+4 B32 1 B33 0 N80 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B33 1 N13 1
+4 B32 1 B33 0 N13 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B33 1 N30 1
+4 B32 1 B33 0 N30 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B33 1 N47 1
+4 B32 1 B33 0 N47 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B33 1 N64 1
+4 B32 1 B33 0 N64 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B33 1 N81 1
+4 B32 1 B33 0 N81 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B33 1 N14 1
+4 B32 1 B33 0 N14 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B33 1 N31 1
+4 B32 1 B33 0 N31 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B33 1 N48 1
+4 B32 1 B33 0 N48 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B33 1 N65 1
+4 B32 1 B33 0 N65 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B33 1 N82 1
+4 B32 1 B33 0 N82 0 N83 1
+pick-up_st1_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B38 1 N0 1
+4 B37 1 B38 0 N0 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B38 1 N17 1
+4 B37 1 B38 0 N17 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B38 1 N34 1
+4 B37 1 B38 0 N34 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B38 1 N51 1
+4 B37 1 B38 0 N51 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B38 1 N68 1
+4 B37 1 B38 0 N68 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B38 1 N1 1
+4 B37 1 B38 0 N1 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B38 1 N18 1
+4 B37 1 B38 0 N18 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B38 1 N35 1
+4 B37 1 B38 0 N35 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B38 1 N52 1
+4 B37 1 B38 0 N52 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B38 1 N69 1
+4 B37 1 B38 0 N69 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B38 1 N2 1
+4 B37 1 B38 0 N2 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B38 1 N19 1
+4 B37 1 B38 0 N19 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B38 1 N36 1
+4 B37 1 B38 0 N36 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B38 1 N53 1
+4 B37 1 B38 0 N53 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B38 1 N70 1
+4 B37 1 B38 0 N70 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B38 1 N3 1
+4 B37 1 B38 0 N3 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B38 1 N20 1
+4 B37 1 B38 0 N20 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B38 1 N37 1
+4 B37 1 B38 0 N37 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B38 1 N54 1
+4 B37 1 B38 0 N54 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B38 1 N71 1
+4 B37 1 B38 0 N71 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B38 1 N4 1
+4 B37 1 B38 0 N4 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B38 1 N21 1
+4 B37 1 B38 0 N21 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B38 1 N38 1
+4 B37 1 B38 0 N38 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B38 1 N55 1
+4 B37 1 B38 0 N55 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B38 1 N72 1
+4 B37 1 B38 0 N72 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B38 1 N5 1
+4 B37 1 B38 0 N5 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B38 1 N22 1
+4 B37 1 B38 0 N22 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B38 1 N39 1
+4 B37 1 B38 0 N39 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B38 1 N56 1
+4 B37 1 B38 0 N56 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B38 1 N73 1
+4 B37 1 B38 0 N73 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B38 1 N6 1
+4 B37 1 B38 0 N6 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B38 1 N23 1
+4 B37 1 B38 0 N23 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B38 1 N40 1
+4 B37 1 B38 0 N40 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B38 1 N57 1
+4 B37 1 B38 0 N57 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B38 1 N74 1
+4 B37 1 B38 0 N74 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B38 1 N7 1
+4 B37 1 B38 0 N7 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B38 1 N24 1
+4 B37 1 B38 0 N24 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B38 1 N41 1
+4 B37 1 B38 0 N41 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B38 1 N58 1
+4 B37 1 B38 0 N58 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B38 1 N75 1
+4 B37 1 B38 0 N75 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B38 1 N8 1
+4 B37 1 B38 0 N8 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B38 1 N25 1
+4 B37 1 B38 0 N25 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B38 1 N42 1
+4 B37 1 B38 0 N42 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B38 1 N59 1
+4 B37 1 B38 0 N59 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B38 1 N76 1
+4 B37 1 B38 0 N76 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B38 1 N9 1
+4 B37 1 B38 0 N9 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B38 1 N26 1
+4 B37 1 B38 0 N26 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B38 1 N43 1
+4 B37 1 B38 0 N43 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B38 1 N60 1
+4 B37 1 B38 0 N60 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B38 1 N77 1
+4 B37 1 B38 0 N77 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B38 1 N10 1
+4 B37 1 B38 0 N10 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B38 1 N27 1
+4 B37 1 B38 0 N27 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B38 1 N44 1
+4 B37 1 B38 0 N44 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B38 1 N61 1
+4 B37 1 B38 0 N61 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B38 1 N78 1
+4 B37 1 B38 0 N78 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B38 1 N11 1
+4 B37 1 B38 0 N11 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B38 1 N28 1
+4 B37 1 B38 0 N28 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B38 1 N45 1
+4 B37 1 B38 0 N45 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B38 1 N62 1
+4 B37 1 B38 0 N62 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B38 1 N79 1
+4 B37 1 B38 0 N79 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B38 1 N12 1
+4 B37 1 B38 0 N12 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B38 1 N29 1
+4 B37 1 B38 0 N29 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B38 1 N46 1
+4 B37 1 B38 0 N46 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B38 1 N63 1
+4 B37 1 B38 0 N63 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B38 1 N80 1
+4 B37 1 B38 0 N80 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B38 1 N13 1
+4 B37 1 B38 0 N13 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B38 1 N30 1
+4 B37 1 B38 0 N30 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B38 1 N47 1
+4 B37 1 B38 0 N47 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B38 1 N64 1
+4 B37 1 B38 0 N64 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B38 1 N81 1
+4 B37 1 B38 0 N81 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B38 1 N14 1
+4 B37 1 B38 0 N14 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B38 1 N31 1
+4 B37 1 B38 0 N31 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B38 1 N48 1
+4 B37 1 B38 0 N48 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B38 1 N65 1
+4 B37 1 B38 0 N65 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B38 1 N82 1
+4 B37 1 B38 0 N82 0 N84 1
+pick-up_st1_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B34 1 N0 1
+4 B33 1 B34 0 N0 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B34 1 N17 1
+4 B33 1 B34 0 N17 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B34 1 N34 1
+4 B33 1 B34 0 N34 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B34 1 N51 1
+4 B33 1 B34 0 N51 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B34 1 N68 1
+4 B33 1 B34 0 N68 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B34 1 N1 1
+4 B33 1 B34 0 N1 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B34 1 N18 1
+4 B33 1 B34 0 N18 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B34 1 N35 1
+4 B33 1 B34 0 N35 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B34 1 N52 1
+4 B33 1 B34 0 N52 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B34 1 N69 1
+4 B33 1 B34 0 N69 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B34 1 N2 1
+4 B33 1 B34 0 N2 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B34 1 N19 1
+4 B33 1 B34 0 N19 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B34 1 N36 1
+4 B33 1 B34 0 N36 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B34 1 N53 1
+4 B33 1 B34 0 N53 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B34 1 N70 1
+4 B33 1 B34 0 N70 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B34 1 N3 1
+4 B33 1 B34 0 N3 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B34 1 N20 1
+4 B33 1 B34 0 N20 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B34 1 N37 1
+4 B33 1 B34 0 N37 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B34 1 N54 1
+4 B33 1 B34 0 N54 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B34 1 N71 1
+4 B33 1 B34 0 N71 0 N83 1
+pick-up_st1_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B34 1 N4 1
+4 B33 1 B34 0 N4 0 N15 1
+pick-up_st2_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B34 1 N21 1
+4 B33 1 B34 0 N21 0 N32 1
+pick-up_st3_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B34 1 N38 1
+4 B33 1 B34 0 N38 0 N49 1
+pick-up_st4_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B34 1 N55 1
+4 B33 1 B34 0 N55 0 N66 1
+pick-up_st5_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B34 1 N72 1
+4 B33 1 B34 0 N72 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B34 1 N5 1
+4 B33 1 B34 0 N5 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B34 1 N22 1
+4 B33 1 B34 0 N22 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B34 1 N39 1
+4 B33 1 B34 0 N39 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B34 1 N56 1
+4 B33 1 B34 0 N56 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B34 1 N73 1
+4 B33 1 B34 0 N73 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B34 1 N6 1
+4 B33 1 B34 0 N6 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B34 1 N23 1
+4 B33 1 B34 0 N23 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B34 1 N40 1
+4 B33 1 B34 0 N40 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B34 1 N57 1
+4 B33 1 B34 0 N57 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B34 1 N74 1
+4 B33 1 B34 0 N74 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B34 1 N7 1
+4 B33 1 B34 0 N7 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B34 1 N24 1
+4 B33 1 B34 0 N24 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B34 1 N41 1
+4 B33 1 B34 0 N41 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B34 1 N58 1
+4 B33 1 B34 0 N58 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B34 1 N75 1
+4 B33 1 B34 0 N75 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B34 1 N8 1
+4 B33 1 B34 0 N8 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B34 1 N25 1
+4 B33 1 B34 0 N25 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B34 1 N42 1
+4 B33 1 B34 0 N42 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B34 1 N59 1
+4 B33 1 B34 0 N59 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B34 1 N76 1
+4 B33 1 B34 0 N76 0 N83 1
+pick-up_st1_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B34 1 N9 1
+4 B33 1 B34 0 N9 0 N15 1
+pick-up_st2_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B34 1 N26 1
+4 B33 1 B34 0 N26 0 N32 1
+pick-up_st3_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B34 1 N43 1
+4 B33 1 B34 0 N43 0 N49 1
+pick-up_st4_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B34 1 N60 1
+4 B33 1 B34 0 N60 0 N66 1
+pick-up_st5_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B34 1 N77 1
+4 B33 1 B34 0 N77 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B34 1 N10 1
+4 B33 1 B34 0 N10 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B34 1 N27 1
+4 B33 1 B34 0 N27 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B34 1 N44 1
+4 B33 1 B34 0 N44 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B34 1 N61 1
+4 B33 1 B34 0 N61 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B34 1 N78 1
+4 B33 1 B34 0 N78 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B34 1 N11 1
+4 B33 1 B34 0 N11 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B34 1 N28 1
+4 B33 1 B34 0 N28 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B34 1 N45 1
+4 B33 1 B34 0 N45 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B34 1 N62 1
+4 B33 1 B34 0 N62 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B34 1 N79 1
+4 B33 1 B34 0 N79 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B34 1 N12 1
+4 B33 1 B34 0 N12 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B34 1 N29 1
+4 B33 1 B34 0 N29 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B34 1 N46 1
+4 B33 1 B34 0 N46 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B34 1 N63 1
+4 B33 1 B34 0 N63 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B34 1 N80 1
+4 B33 1 B34 0 N80 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B34 1 N13 1
+4 B33 1 B34 0 N13 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B34 1 N30 1
+4 B33 1 B34 0 N30 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B34 1 N47 1
+4 B33 1 B34 0 N47 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B34 1 N64 1
+4 B33 1 B34 0 N64 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B34 1 N81 1
+4 B33 1 B34 0 N81 0 N83 1
+pick-up_st1_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B34 1 N14 1
+4 B33 1 B34 0 N14 0 N15 1
+pick-up_st2_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B34 1 N31 1
+4 B33 1 B34 0 N31 0 N32 1
+pick-up_st3_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B34 1 N48 1
+4 B33 1 B34 0 N48 0 N49 1
+pick-up_st4_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B34 1 N65 1
+4 B33 1 B34 0 N65 0 N66 1
+pick-up_st5_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B34 1 N82 1
+4 B33 1 B34 0 N82 0 N83 1
+pick-up_st1_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B39 1 N0 1
+4 B38 1 B39 0 N0 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B39 1 N17 1
+4 B38 1 B39 0 N17 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B39 1 N34 1
+4 B38 1 B39 0 N34 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B39 1 N51 1
+4 B38 1 B39 0 N51 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B39 1 N68 1
+4 B38 1 B39 0 N68 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B39 1 N1 1
+4 B38 1 B39 0 N1 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B39 1 N18 1
+4 B38 1 B39 0 N18 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B39 1 N35 1
+4 B38 1 B39 0 N35 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B39 1 N52 1
+4 B38 1 B39 0 N52 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B39 1 N69 1
+4 B38 1 B39 0 N69 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B39 1 N2 1
+4 B38 1 B39 0 N2 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B39 1 N19 1
+4 B38 1 B39 0 N19 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B39 1 N36 1
+4 B38 1 B39 0 N36 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B39 1 N53 1
+4 B38 1 B39 0 N53 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B39 1 N70 1
+4 B38 1 B39 0 N70 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B39 1 N3 1
+4 B38 1 B39 0 N3 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B39 1 N20 1
+4 B38 1 B39 0 N20 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B39 1 N37 1
+4 B38 1 B39 0 N37 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B39 1 N54 1
+4 B38 1 B39 0 N54 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B39 1 N71 1
+4 B38 1 B39 0 N71 0 N84 1
+pick-up_st1_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B39 1 N4 1
+4 B38 1 B39 0 N4 0 N16 1
+pick-up_st2_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B39 1 N21 1
+4 B38 1 B39 0 N21 0 N33 1
+pick-up_st3_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B39 1 N38 1
+4 B38 1 B39 0 N38 0 N50 1
+pick-up_st4_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B39 1 N55 1
+4 B38 1 B39 0 N55 0 N67 1
+pick-up_st5_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B39 1 N72 1
+4 B38 1 B39 0 N72 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B39 1 N5 1
+4 B38 1 B39 0 N5 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B39 1 N22 1
+4 B38 1 B39 0 N22 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B39 1 N39 1
+4 B38 1 B39 0 N39 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B39 1 N56 1
+4 B38 1 B39 0 N56 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B39 1 N73 1
+4 B38 1 B39 0 N73 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B39 1 N6 1
+4 B38 1 B39 0 N6 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B39 1 N23 1
+4 B38 1 B39 0 N23 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B39 1 N40 1
+4 B38 1 B39 0 N40 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B39 1 N57 1
+4 B38 1 B39 0 N57 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B39 1 N74 1
+4 B38 1 B39 0 N74 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B39 1 N7 1
+4 B38 1 B39 0 N7 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B39 1 N24 1
+4 B38 1 B39 0 N24 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B39 1 N41 1
+4 B38 1 B39 0 N41 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B39 1 N58 1
+4 B38 1 B39 0 N58 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B39 1 N75 1
+4 B38 1 B39 0 N75 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B39 1 N8 1
+4 B38 1 B39 0 N8 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B39 1 N25 1
+4 B38 1 B39 0 N25 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B39 1 N42 1
+4 B38 1 B39 0 N42 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B39 1 N59 1
+4 B38 1 B39 0 N59 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B39 1 N76 1
+4 B38 1 B39 0 N76 0 N84 1
+pick-up_st1_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B39 1 N9 1
+4 B38 1 B39 0 N9 0 N16 1
+pick-up_st2_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B39 1 N26 1
+4 B38 1 B39 0 N26 0 N33 1
+pick-up_st3_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B39 1 N43 1
+4 B38 1 B39 0 N43 0 N50 1
+pick-up_st4_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B39 1 N60 1
+4 B38 1 B39 0 N60 0 N67 1
+pick-up_st5_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B39 1 N77 1
+4 B38 1 B39 0 N77 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B39 1 N10 1
+4 B38 1 B39 0 N10 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B39 1 N27 1
+4 B38 1 B39 0 N27 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B39 1 N44 1
+4 B38 1 B39 0 N44 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B39 1 N61 1
+4 B38 1 B39 0 N61 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B39 1 N78 1
+4 B38 1 B39 0 N78 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B39 1 N11 1
+4 B38 1 B39 0 N11 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B39 1 N28 1
+4 B38 1 B39 0 N28 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B39 1 N45 1
+4 B38 1 B39 0 N45 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B39 1 N62 1
+4 B38 1 B39 0 N62 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B39 1 N79 1
+4 B38 1 B39 0 N79 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B39 1 N12 1
+4 B38 1 B39 0 N12 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B39 1 N29 1
+4 B38 1 B39 0 N29 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B39 1 N46 1
+4 B38 1 B39 0 N46 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B39 1 N63 1
+4 B38 1 B39 0 N63 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B39 1 N80 1
+4 B38 1 B39 0 N80 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B39 1 N13 1
+4 B38 1 B39 0 N13 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B39 1 N30 1
+4 B38 1 B39 0 N30 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B39 1 N47 1
+4 B38 1 B39 0 N47 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B39 1 N64 1
+4 B38 1 B39 0 N64 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B39 1 N81 1
+4 B38 1 B39 0 N81 0 N84 1
+pick-up_st1_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B39 1 N14 1
+4 B38 1 B39 0 N14 0 N16 1
+pick-up_st2_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B39 1 N31 1
+4 B38 1 B39 0 N31 0 N33 1
+pick-up_st3_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B39 1 N48 1
+4 B38 1 B39 0 N48 0 N50 1
+pick-up_st4_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B39 1 N65 1
+4 B38 1 B39 0 N65 0 N67 1
+pick-up_st5_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B39 1 N82 1
+4 B38 1 B39 0 N82 0 N84 1
+drop_st1_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N0 1
+drop_st2_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N17 1
+drop_st3_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N34 1
+drop_st4_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N51 1
+drop_st5_package_truck-1_city-1-loc-1_capacity-0_capacity-1
+3 B0 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N68 1
+drop_st1_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N1 1
+drop_st2_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N18 1
+drop_st3_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N35 1
+drop_st4_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N52 1
+drop_st5_package_truck-1_city-1-loc-2_capacity-0_capacity-1
+3 B3 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N69 1
+drop_st1_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N2 1
+drop_st2_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N19 1
+drop_st3_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N36 1
+drop_st4_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N53 1
+drop_st5_package_truck-1_city-1-loc-3_capacity-0_capacity-1
+3 B6 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N70 1
+drop_st1_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N3 1
+drop_st2_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N20 1
+drop_st3_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N37 1
+drop_st4_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N54 1
+drop_st5_package_truck-1_city-1-loc-4_capacity-0_capacity-1
+3 B9 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N71 1
+drop_st1_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N4 1
+drop_st2_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N21 1
+drop_st3_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N38 1
+drop_st4_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N55 1
+drop_st5_package_truck-1_city-1-loc-5_capacity-0_capacity-1
+3 B12 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N72 1
+drop_st1_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N5 1
+drop_st2_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N22 1
+drop_st3_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N39 1
+drop_st4_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N56 1
+drop_st5_package_truck-1_city-2-loc-1_capacity-0_capacity-1
+3 B1 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N73 1
+drop_st1_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N6 1
+drop_st2_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N23 1
+drop_st3_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N40 1
+drop_st4_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N57 1
+drop_st5_package_truck-1_city-2-loc-2_capacity-0_capacity-1
+3 B4 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N74 1
+drop_st1_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N7 1
+drop_st2_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N24 1
+drop_st3_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N41 1
+drop_st4_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N58 1
+drop_st5_package_truck-1_city-2-loc-3_capacity-0_capacity-1
+3 B7 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N75 1
+drop_st1_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N8 1
+drop_st2_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N25 1
+drop_st3_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N42 1
+drop_st4_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N59 1
+drop_st5_package_truck-1_city-2-loc-4_capacity-0_capacity-1
+3 B10 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N76 1
+drop_st1_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N9 1
+drop_st2_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N26 1
+drop_st3_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N43 1
+drop_st4_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N60 1
+drop_st5_package_truck-1_city-2-loc-5_capacity-0_capacity-1
+3 B13 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N77 1
+drop_st1_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N10 1
+drop_st2_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N27 1
+drop_st3_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N44 1
+drop_st4_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N61 1
+drop_st5_package_truck-1_city-3-loc-1_capacity-0_capacity-1
+3 B2 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N78 1
+drop_st1_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N11 1
+drop_st2_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N28 1
+drop_st3_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N45 1
+drop_st4_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N62 1
+drop_st5_package_truck-1_city-3-loc-2_capacity-0_capacity-1
+3 B5 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N79 1
+drop_st1_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N12 1
+drop_st2_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N29 1
+drop_st3_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N46 1
+drop_st4_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N63 1
+drop_st5_package_truck-1_city-3-loc-3_capacity-0_capacity-1
+3 B8 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N80 1
+drop_st1_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N13 1
+drop_st2_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N30 1
+drop_st3_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N47 1
+drop_st4_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N64 1
+drop_st5_package_truck-1_city-3-loc-4_capacity-0_capacity-1
+3 B11 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N81 1
+drop_st1_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B30 1 N15 1
+4 B31 1 B30 0 N15 0 N14 1
+drop_st2_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B30 1 N32 1
+4 B31 1 B30 0 N32 0 N31 1
+drop_st3_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B30 1 N49 1
+4 B31 1 B30 0 N49 0 N48 1
+drop_st4_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B30 1 N66 1
+4 B31 1 B30 0 N66 0 N65 1
+drop_st5_package_truck-1_city-3-loc-5_capacity-0_capacity-1
+3 B14 1 B30 1 N83 1
+4 B31 1 B30 0 N83 0 N82 1
+drop_st1_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N0 1
+drop_st2_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N17 1
+drop_st3_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N34 1
+drop_st4_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N51 1
+drop_st5_package_truck-2_city-1-loc-1_capacity-0_capacity-1
+3 B15 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N68 1
+drop_st1_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N1 1
+drop_st2_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N18 1
+drop_st3_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N35 1
+drop_st4_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N52 1
+drop_st5_package_truck-2_city-1-loc-2_capacity-0_capacity-1
+3 B18 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N69 1
+drop_st1_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N2 1
+drop_st2_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N19 1
+drop_st3_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N36 1
+drop_st4_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N53 1
+drop_st5_package_truck-2_city-1-loc-3_capacity-0_capacity-1
+3 B21 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N70 1
+drop_st1_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N3 1
+drop_st2_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N20 1
+drop_st3_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N37 1
+drop_st4_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N54 1
+drop_st5_package_truck-2_city-1-loc-4_capacity-0_capacity-1
+3 B24 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N71 1
+drop_st1_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N4 1
+drop_st2_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N21 1
+drop_st3_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N38 1
+drop_st4_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N55 1
+drop_st5_package_truck-2_city-1-loc-5_capacity-0_capacity-1
+3 B27 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N72 1
+drop_st1_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N5 1
+drop_st2_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N22 1
+drop_st3_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N39 1
+drop_st4_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N56 1
+drop_st5_package_truck-2_city-2-loc-1_capacity-0_capacity-1
+3 B16 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N73 1
+drop_st1_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N6 1
+drop_st2_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N23 1
+drop_st3_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N40 1
+drop_st4_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N57 1
+drop_st5_package_truck-2_city-2-loc-2_capacity-0_capacity-1
+3 B19 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N74 1
+drop_st1_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N7 1
+drop_st2_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N24 1
+drop_st3_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N41 1
+drop_st4_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N58 1
+drop_st5_package_truck-2_city-2-loc-3_capacity-0_capacity-1
+3 B22 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N75 1
+drop_st1_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N8 1
+drop_st2_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N25 1
+drop_st3_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N42 1
+drop_st4_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N59 1
+drop_st5_package_truck-2_city-2-loc-4_capacity-0_capacity-1
+3 B25 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N76 1
+drop_st1_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N9 1
+drop_st2_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N26 1
+drop_st3_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N43 1
+drop_st4_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N60 1
+drop_st5_package_truck-2_city-2-loc-5_capacity-0_capacity-1
+3 B28 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N77 1
+drop_st1_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N10 1
+drop_st2_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N27 1
+drop_st3_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N44 1
+drop_st4_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N61 1
+drop_st5_package_truck-2_city-3-loc-1_capacity-0_capacity-1
+3 B17 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N78 1
+drop_st1_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N11 1
+drop_st2_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N28 1
+drop_st3_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N45 1
+drop_st4_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N62 1
+drop_st5_package_truck-2_city-3-loc-2_capacity-0_capacity-1
+3 B20 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N79 1
+drop_st1_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N12 1
+drop_st2_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N29 1
+drop_st3_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N46 1
+drop_st4_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N63 1
+drop_st5_package_truck-2_city-3-loc-3_capacity-0_capacity-1
+3 B23 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N80 1
+drop_st1_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N13 1
+drop_st2_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N30 1
+drop_st3_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N47 1
+drop_st4_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N64 1
+drop_st5_package_truck-2_city-3-loc-4_capacity-0_capacity-1
+3 B26 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N81 1
+drop_st1_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B35 1 N16 1
+4 B36 1 B35 0 N16 0 N14 1
+drop_st2_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B35 1 N33 1
+4 B36 1 B35 0 N33 0 N31 1
+drop_st3_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B35 1 N50 1
+4 B36 1 B35 0 N50 0 N48 1
+drop_st4_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B35 1 N67 1
+4 B36 1 B35 0 N67 0 N65 1
+drop_st5_package_truck-2_city-3-loc-5_capacity-0_capacity-1
+3 B29 1 B35 1 N84 1
+4 B36 1 B35 0 N84 0 N82 1
+drop_st1_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N0 1
+drop_st2_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N17 1
+drop_st3_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N34 1
+drop_st4_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N51 1
+drop_st5_package_truck-1_city-1-loc-1_capacity-1_capacity-2
+3 B0 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N68 1
+drop_st1_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N1 1
+drop_st2_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N18 1
+drop_st3_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N35 1
+drop_st4_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N52 1
+drop_st5_package_truck-1_city-1-loc-2_capacity-1_capacity-2
+3 B3 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N69 1
+drop_st1_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N2 1
+drop_st2_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N19 1
+drop_st3_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N36 1
+drop_st4_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N53 1
+drop_st5_package_truck-1_city-1-loc-3_capacity-1_capacity-2
+3 B6 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N70 1
+drop_st1_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N3 1
+drop_st2_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N20 1
+drop_st3_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N37 1
+drop_st4_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N54 1
+drop_st5_package_truck-1_city-1-loc-4_capacity-1_capacity-2
+3 B9 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N71 1
+drop_st1_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N4 1
+drop_st2_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N21 1
+drop_st3_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N38 1
+drop_st4_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N55 1
+drop_st5_package_truck-1_city-1-loc-5_capacity-1_capacity-2
+3 B12 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N72 1
+drop_st1_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N5 1
+drop_st2_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N22 1
+drop_st3_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N39 1
+drop_st4_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N56 1
+drop_st5_package_truck-1_city-2-loc-1_capacity-1_capacity-2
+3 B1 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N73 1
+drop_st1_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N6 1
+drop_st2_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N23 1
+drop_st3_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N40 1
+drop_st4_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N57 1
+drop_st5_package_truck-1_city-2-loc-2_capacity-1_capacity-2
+3 B4 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N74 1
+drop_st1_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N7 1
+drop_st2_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N24 1
+drop_st3_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N41 1
+drop_st4_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N58 1
+drop_st5_package_truck-1_city-2-loc-3_capacity-1_capacity-2
+3 B7 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N75 1
+drop_st1_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N8 1
+drop_st2_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N25 1
+drop_st3_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N42 1
+drop_st4_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N59 1
+drop_st5_package_truck-1_city-2-loc-4_capacity-1_capacity-2
+3 B10 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N76 1
+drop_st1_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N9 1
+drop_st2_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N26 1
+drop_st3_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N43 1
+drop_st4_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N60 1
+drop_st5_package_truck-1_city-2-loc-5_capacity-1_capacity-2
+3 B13 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N77 1
+drop_st1_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N10 1
+drop_st2_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N27 1
+drop_st3_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N44 1
+drop_st4_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N61 1
+drop_st5_package_truck-1_city-3-loc-1_capacity-1_capacity-2
+3 B2 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N78 1
+drop_st1_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N11 1
+drop_st2_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N28 1
+drop_st3_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N45 1
+drop_st4_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N62 1
+drop_st5_package_truck-1_city-3-loc-2_capacity-1_capacity-2
+3 B5 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N79 1
+drop_st1_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N12 1
+drop_st2_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N29 1
+drop_st3_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N46 1
+drop_st4_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N63 1
+drop_st5_package_truck-1_city-3-loc-3_capacity-1_capacity-2
+3 B8 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N80 1
+drop_st1_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N13 1
+drop_st2_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N30 1
+drop_st3_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N47 1
+drop_st4_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N64 1
+drop_st5_package_truck-1_city-3-loc-4_capacity-1_capacity-2
+3 B11 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N81 1
+drop_st1_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B31 1 N15 1
+4 B32 1 B31 0 N15 0 N14 1
+drop_st2_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B31 1 N32 1
+4 B32 1 B31 0 N32 0 N31 1
+drop_st3_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B31 1 N49 1
+4 B32 1 B31 0 N49 0 N48 1
+drop_st4_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B31 1 N66 1
+4 B32 1 B31 0 N66 0 N65 1
+drop_st5_package_truck-1_city-3-loc-5_capacity-1_capacity-2
+3 B14 1 B31 1 N83 1
+4 B32 1 B31 0 N83 0 N82 1
+drop_st1_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N0 1
+drop_st2_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N17 1
+drop_st3_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N34 1
+drop_st4_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N51 1
+drop_st5_package_truck-2_city-1-loc-1_capacity-1_capacity-2
+3 B15 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N68 1
+drop_st1_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N1 1
+drop_st2_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N18 1
+drop_st3_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N35 1
+drop_st4_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N52 1
+drop_st5_package_truck-2_city-1-loc-2_capacity-1_capacity-2
+3 B18 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N69 1
+drop_st1_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N2 1
+drop_st2_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N19 1
+drop_st3_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N36 1
+drop_st4_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N53 1
+drop_st5_package_truck-2_city-1-loc-3_capacity-1_capacity-2
+3 B21 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N70 1
+drop_st1_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N3 1
+drop_st2_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N20 1
+drop_st3_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N37 1
+drop_st4_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N54 1
+drop_st5_package_truck-2_city-1-loc-4_capacity-1_capacity-2
+3 B24 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N71 1
+drop_st1_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N4 1
+drop_st2_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N21 1
+drop_st3_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N38 1
+drop_st4_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N55 1
+drop_st5_package_truck-2_city-1-loc-5_capacity-1_capacity-2
+3 B27 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N72 1
+drop_st1_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N5 1
+drop_st2_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N22 1
+drop_st3_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N39 1
+drop_st4_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N56 1
+drop_st5_package_truck-2_city-2-loc-1_capacity-1_capacity-2
+3 B16 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N73 1
+drop_st1_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N6 1
+drop_st2_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N23 1
+drop_st3_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N40 1
+drop_st4_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N57 1
+drop_st5_package_truck-2_city-2-loc-2_capacity-1_capacity-2
+3 B19 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N74 1
+drop_st1_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N7 1
+drop_st2_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N24 1
+drop_st3_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N41 1
+drop_st4_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N58 1
+drop_st5_package_truck-2_city-2-loc-3_capacity-1_capacity-2
+3 B22 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N75 1
+drop_st1_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N8 1
+drop_st2_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N25 1
+drop_st3_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N42 1
+drop_st4_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N59 1
+drop_st5_package_truck-2_city-2-loc-4_capacity-1_capacity-2
+3 B25 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N76 1
+drop_st1_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N9 1
+drop_st2_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N26 1
+drop_st3_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N43 1
+drop_st4_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N60 1
+drop_st5_package_truck-2_city-2-loc-5_capacity-1_capacity-2
+3 B28 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N77 1
+drop_st1_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N10 1
+drop_st2_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N27 1
+drop_st3_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N44 1
+drop_st4_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N61 1
+drop_st5_package_truck-2_city-3-loc-1_capacity-1_capacity-2
+3 B17 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N78 1
+drop_st1_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N11 1
+drop_st2_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N28 1
+drop_st3_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N45 1
+drop_st4_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N62 1
+drop_st5_package_truck-2_city-3-loc-2_capacity-1_capacity-2
+3 B20 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N79 1
+drop_st1_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N12 1
+drop_st2_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N29 1
+drop_st3_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N46 1
+drop_st4_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N63 1
+drop_st5_package_truck-2_city-3-loc-3_capacity-1_capacity-2
+3 B23 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N80 1
+drop_st1_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N13 1
+drop_st2_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N30 1
+drop_st3_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N47 1
+drop_st4_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N64 1
+drop_st5_package_truck-2_city-3-loc-4_capacity-1_capacity-2
+3 B26 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N81 1
+drop_st1_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B36 1 N16 1
+4 B37 1 B36 0 N16 0 N14 1
+drop_st2_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B36 1 N33 1
+4 B37 1 B36 0 N33 0 N31 1
+drop_st3_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B36 1 N50 1
+4 B37 1 B36 0 N50 0 N48 1
+drop_st4_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B36 1 N67 1
+4 B37 1 B36 0 N67 0 N65 1
+drop_st5_package_truck-2_city-3-loc-5_capacity-1_capacity-2
+3 B29 1 B36 1 N84 1
+4 B37 1 B36 0 N84 0 N82 1
+drop_st1_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N0 1
+drop_st2_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N17 1
+drop_st3_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N34 1
+drop_st4_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N51 1
+drop_st5_package_truck-1_city-1-loc-1_capacity-2_capacity-3
+3 B0 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N68 1
+drop_st1_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N1 1
+drop_st2_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N18 1
+drop_st3_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N35 1
+drop_st4_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N52 1
+drop_st5_package_truck-1_city-1-loc-2_capacity-2_capacity-3
+3 B3 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N69 1
+drop_st1_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N2 1
+drop_st2_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N19 1
+drop_st3_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N36 1
+drop_st4_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N53 1
+drop_st5_package_truck-1_city-1-loc-3_capacity-2_capacity-3
+3 B6 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N70 1
+drop_st1_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N3 1
+drop_st2_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N20 1
+drop_st3_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N37 1
+drop_st4_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N54 1
+drop_st5_package_truck-1_city-1-loc-4_capacity-2_capacity-3
+3 B9 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N71 1
+drop_st1_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N4 1
+drop_st2_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N21 1
+drop_st3_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N38 1
+drop_st4_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N55 1
+drop_st5_package_truck-1_city-1-loc-5_capacity-2_capacity-3
+3 B12 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N72 1
+drop_st1_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N5 1
+drop_st2_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N22 1
+drop_st3_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N39 1
+drop_st4_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N56 1
+drop_st5_package_truck-1_city-2-loc-1_capacity-2_capacity-3
+3 B1 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N73 1
+drop_st1_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N6 1
+drop_st2_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N23 1
+drop_st3_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N40 1
+drop_st4_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N57 1
+drop_st5_package_truck-1_city-2-loc-2_capacity-2_capacity-3
+3 B4 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N74 1
+drop_st1_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N7 1
+drop_st2_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N24 1
+drop_st3_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N41 1
+drop_st4_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N58 1
+drop_st5_package_truck-1_city-2-loc-3_capacity-2_capacity-3
+3 B7 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N75 1
+drop_st1_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N8 1
+drop_st2_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N25 1
+drop_st3_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N42 1
+drop_st4_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N59 1
+drop_st5_package_truck-1_city-2-loc-4_capacity-2_capacity-3
+3 B10 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N76 1
+drop_st1_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N9 1
+drop_st2_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N26 1
+drop_st3_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N43 1
+drop_st4_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N60 1
+drop_st5_package_truck-1_city-2-loc-5_capacity-2_capacity-3
+3 B13 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N77 1
+drop_st1_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N10 1
+drop_st2_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N27 1
+drop_st3_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N44 1
+drop_st4_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N61 1
+drop_st5_package_truck-1_city-3-loc-1_capacity-2_capacity-3
+3 B2 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N78 1
+drop_st1_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N11 1
+drop_st2_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N28 1
+drop_st3_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N45 1
+drop_st4_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N62 1
+drop_st5_package_truck-1_city-3-loc-2_capacity-2_capacity-3
+3 B5 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N79 1
+drop_st1_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N12 1
+drop_st2_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N29 1
+drop_st3_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N46 1
+drop_st4_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N63 1
+drop_st5_package_truck-1_city-3-loc-3_capacity-2_capacity-3
+3 B8 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N80 1
+drop_st1_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N13 1
+drop_st2_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N30 1
+drop_st3_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N47 1
+drop_st4_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N64 1
+drop_st5_package_truck-1_city-3-loc-4_capacity-2_capacity-3
+3 B11 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N81 1
+drop_st1_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B32 1 N15 1
+4 B33 1 B32 0 N15 0 N14 1
+drop_st2_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B32 1 N32 1
+4 B33 1 B32 0 N32 0 N31 1
+drop_st3_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B32 1 N49 1
+4 B33 1 B32 0 N49 0 N48 1
+drop_st4_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B32 1 N66 1
+4 B33 1 B32 0 N66 0 N65 1
+drop_st5_package_truck-1_city-3-loc-5_capacity-2_capacity-3
+3 B14 1 B32 1 N83 1
+4 B33 1 B32 0 N83 0 N82 1
+drop_st1_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N0 1
+drop_st2_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N17 1
+drop_st3_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N34 1
+drop_st4_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N51 1
+drop_st5_package_truck-2_city-1-loc-1_capacity-2_capacity-3
+3 B15 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N68 1
+drop_st1_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N1 1
+drop_st2_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N18 1
+drop_st3_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N35 1
+drop_st4_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N52 1
+drop_st5_package_truck-2_city-1-loc-2_capacity-2_capacity-3
+3 B18 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N69 1
+drop_st1_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N2 1
+drop_st2_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N19 1
+drop_st3_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N36 1
+drop_st4_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N53 1
+drop_st5_package_truck-2_city-1-loc-3_capacity-2_capacity-3
+3 B21 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N70 1
+drop_st1_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N3 1
+drop_st2_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N20 1
+drop_st3_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N37 1
+drop_st4_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N54 1
+drop_st5_package_truck-2_city-1-loc-4_capacity-2_capacity-3
+3 B24 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N71 1
+drop_st1_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N4 1
+drop_st2_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N21 1
+drop_st3_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N38 1
+drop_st4_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N55 1
+drop_st5_package_truck-2_city-1-loc-5_capacity-2_capacity-3
+3 B27 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N72 1
+drop_st1_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N5 1
+drop_st2_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N22 1
+drop_st3_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N39 1
+drop_st4_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N56 1
+drop_st5_package_truck-2_city-2-loc-1_capacity-2_capacity-3
+3 B16 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N73 1
+drop_st1_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N6 1
+drop_st2_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N23 1
+drop_st3_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N40 1
+drop_st4_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N57 1
+drop_st5_package_truck-2_city-2-loc-2_capacity-2_capacity-3
+3 B19 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N74 1
+drop_st1_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N7 1
+drop_st2_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N24 1
+drop_st3_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N41 1
+drop_st4_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N58 1
+drop_st5_package_truck-2_city-2-loc-3_capacity-2_capacity-3
+3 B22 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N75 1
+drop_st1_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N8 1
+drop_st2_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N25 1
+drop_st3_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N42 1
+drop_st4_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N59 1
+drop_st5_package_truck-2_city-2-loc-4_capacity-2_capacity-3
+3 B25 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N76 1
+drop_st1_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N9 1
+drop_st2_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N26 1
+drop_st3_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N43 1
+drop_st4_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N60 1
+drop_st5_package_truck-2_city-2-loc-5_capacity-2_capacity-3
+3 B28 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N77 1
+drop_st1_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N10 1
+drop_st2_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N27 1
+drop_st3_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N44 1
+drop_st4_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N61 1
+drop_st5_package_truck-2_city-3-loc-1_capacity-2_capacity-3
+3 B17 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N78 1
+drop_st1_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N11 1
+drop_st2_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N28 1
+drop_st3_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N45 1
+drop_st4_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N62 1
+drop_st5_package_truck-2_city-3-loc-2_capacity-2_capacity-3
+3 B20 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N79 1
+drop_st1_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N12 1
+drop_st2_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N29 1
+drop_st3_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N46 1
+drop_st4_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N63 1
+drop_st5_package_truck-2_city-3-loc-3_capacity-2_capacity-3
+3 B23 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N80 1
+drop_st1_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N13 1
+drop_st2_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N30 1
+drop_st3_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N47 1
+drop_st4_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N64 1
+drop_st5_package_truck-2_city-3-loc-4_capacity-2_capacity-3
+3 B26 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N81 1
+drop_st1_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B37 1 N16 1
+4 B38 1 B37 0 N16 0 N14 1
+drop_st2_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B37 1 N33 1
+4 B38 1 B37 0 N33 0 N31 1
+drop_st3_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B37 1 N50 1
+4 B38 1 B37 0 N50 0 N48 1
+drop_st4_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B37 1 N67 1
+4 B38 1 B37 0 N67 0 N65 1
+drop_st5_package_truck-2_city-3-loc-5_capacity-2_capacity-3
+3 B29 1 B37 1 N84 1
+4 B38 1 B37 0 N84 0 N82 1
+drop_st1_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N0 1
+drop_st2_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N17 1
+drop_st3_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N34 1
+drop_st4_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N51 1
+drop_st5_package_truck-1_city-1-loc-1_capacity-3_capacity-4
+3 B0 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N68 1
+drop_st1_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N1 1
+drop_st2_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N18 1
+drop_st3_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N35 1
+drop_st4_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N52 1
+drop_st5_package_truck-1_city-1-loc-2_capacity-3_capacity-4
+3 B3 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N69 1
+drop_st1_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N2 1
+drop_st2_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N19 1
+drop_st3_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N36 1
+drop_st4_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N53 1
+drop_st5_package_truck-1_city-1-loc-3_capacity-3_capacity-4
+3 B6 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N70 1
+drop_st1_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N3 1
+drop_st2_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N20 1
+drop_st3_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N37 1
+drop_st4_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N54 1
+drop_st5_package_truck-1_city-1-loc-4_capacity-3_capacity-4
+3 B9 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N71 1
+drop_st1_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N4 1
+drop_st2_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N21 1
+drop_st3_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N38 1
+drop_st4_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N55 1
+drop_st5_package_truck-1_city-1-loc-5_capacity-3_capacity-4
+3 B12 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N72 1
+drop_st1_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N5 1
+drop_st2_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N22 1
+drop_st3_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N39 1
+drop_st4_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N56 1
+drop_st5_package_truck-1_city-2-loc-1_capacity-3_capacity-4
+3 B1 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N73 1
+drop_st1_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N6 1
+drop_st2_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N23 1
+drop_st3_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N40 1
+drop_st4_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N57 1
+drop_st5_package_truck-1_city-2-loc-2_capacity-3_capacity-4
+3 B4 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N74 1
+drop_st1_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N7 1
+drop_st2_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N24 1
+drop_st3_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N41 1
+drop_st4_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N58 1
+drop_st5_package_truck-1_city-2-loc-3_capacity-3_capacity-4
+3 B7 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N75 1
+drop_st1_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N8 1
+drop_st2_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N25 1
+drop_st3_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N42 1
+drop_st4_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N59 1
+drop_st5_package_truck-1_city-2-loc-4_capacity-3_capacity-4
+3 B10 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N76 1
+drop_st1_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N9 1
+drop_st2_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N26 1
+drop_st3_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N43 1
+drop_st4_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N60 1
+drop_st5_package_truck-1_city-2-loc-5_capacity-3_capacity-4
+3 B13 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N77 1
+drop_st1_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N10 1
+drop_st2_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N27 1
+drop_st3_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N44 1
+drop_st4_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N61 1
+drop_st5_package_truck-1_city-3-loc-1_capacity-3_capacity-4
+3 B2 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N78 1
+drop_st1_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N11 1
+drop_st2_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N28 1
+drop_st3_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N45 1
+drop_st4_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N62 1
+drop_st5_package_truck-1_city-3-loc-2_capacity-3_capacity-4
+3 B5 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N79 1
+drop_st1_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N12 1
+drop_st2_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N29 1
+drop_st3_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N46 1
+drop_st4_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N63 1
+drop_st5_package_truck-1_city-3-loc-3_capacity-3_capacity-4
+3 B8 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N80 1
+drop_st1_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N13 1
+drop_st2_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N30 1
+drop_st3_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N47 1
+drop_st4_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N64 1
+drop_st5_package_truck-1_city-3-loc-4_capacity-3_capacity-4
+3 B11 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N81 1
+drop_st1_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B33 1 N15 1
+4 B34 1 B33 0 N15 0 N14 1
+drop_st2_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B33 1 N32 1
+4 B34 1 B33 0 N32 0 N31 1
+drop_st3_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B33 1 N49 1
+4 B34 1 B33 0 N49 0 N48 1
+drop_st4_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B33 1 N66 1
+4 B34 1 B33 0 N66 0 N65 1
+drop_st5_package_truck-1_city-3-loc-5_capacity-3_capacity-4
+3 B14 1 B33 1 N83 1
+4 B34 1 B33 0 N83 0 N82 1
+drop_st1_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N0 1
+drop_st2_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N17 1
+drop_st3_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N34 1
+drop_st4_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N51 1
+drop_st5_package_truck-2_city-1-loc-1_capacity-3_capacity-4
+3 B15 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N68 1
+drop_st1_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N1 1
+drop_st2_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N18 1
+drop_st3_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N35 1
+drop_st4_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N52 1
+drop_st5_package_truck-2_city-1-loc-2_capacity-3_capacity-4
+3 B18 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N69 1
+drop_st1_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N2 1
+drop_st2_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N19 1
+drop_st3_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N36 1
+drop_st4_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N53 1
+drop_st5_package_truck-2_city-1-loc-3_capacity-3_capacity-4
+3 B21 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N70 1
+drop_st1_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N3 1
+drop_st2_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N20 1
+drop_st3_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N37 1
+drop_st4_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N54 1
+drop_st5_package_truck-2_city-1-loc-4_capacity-3_capacity-4
+3 B24 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N71 1
+drop_st1_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N4 1
+drop_st2_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N21 1
+drop_st3_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N38 1
+drop_st4_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N55 1
+drop_st5_package_truck-2_city-1-loc-5_capacity-3_capacity-4
+3 B27 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N72 1
+drop_st1_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N5 1
+drop_st2_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N22 1
+drop_st3_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N39 1
+drop_st4_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N56 1
+drop_st5_package_truck-2_city-2-loc-1_capacity-3_capacity-4
+3 B16 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N73 1
+drop_st1_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N6 1
+drop_st2_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N23 1
+drop_st3_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N40 1
+drop_st4_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N57 1
+drop_st5_package_truck-2_city-2-loc-2_capacity-3_capacity-4
+3 B19 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N74 1
+drop_st1_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N7 1
+drop_st2_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N24 1
+drop_st3_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N41 1
+drop_st4_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N58 1
+drop_st5_package_truck-2_city-2-loc-3_capacity-3_capacity-4
+3 B22 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N75 1
+drop_st1_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N8 1
+drop_st2_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N25 1
+drop_st3_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N42 1
+drop_st4_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N59 1
+drop_st5_package_truck-2_city-2-loc-4_capacity-3_capacity-4
+3 B25 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N76 1
+drop_st1_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N9 1
+drop_st2_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N26 1
+drop_st3_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N43 1
+drop_st4_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N60 1
+drop_st5_package_truck-2_city-2-loc-5_capacity-3_capacity-4
+3 B28 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N77 1
+drop_st1_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N10 1
+drop_st2_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N27 1
+drop_st3_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N44 1
+drop_st4_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N61 1
+drop_st5_package_truck-2_city-3-loc-1_capacity-3_capacity-4
+3 B17 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N78 1
+drop_st1_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N11 1
+drop_st2_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N28 1
+drop_st3_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N45 1
+drop_st4_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N62 1
+drop_st5_package_truck-2_city-3-loc-2_capacity-3_capacity-4
+3 B20 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N79 1
+drop_st1_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N12 1
+drop_st2_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N29 1
+drop_st3_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N46 1
+drop_st4_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N63 1
+drop_st5_package_truck-2_city-3-loc-3_capacity-3_capacity-4
+3 B23 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N80 1
+drop_st1_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N13 1
+drop_st2_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N30 1
+drop_st3_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N47 1
+drop_st4_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N64 1
+drop_st5_package_truck-2_city-3-loc-4_capacity-3_capacity-4
+3 B26 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N81 1
+drop_st1_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B38 1 N16 1
+4 B39 1 B38 0 N16 0 N14 1
+drop_st2_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B38 1 N33 1
+4 B39 1 B38 0 N33 0 N31 1
+drop_st3_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B38 1 N50 1
+4 B39 1 B38 0 N50 0 N48 1
+drop_st4_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B38 1 N67 1
+4 B39 1 B38 0 N67 0 N65 1
+drop_st5_package_truck-2_city-3-loc-5_capacity-3_capacity-4
+3 B29 1 B38 1 N84 1
+4 B39 1 B38 0 N84 0 N82 1

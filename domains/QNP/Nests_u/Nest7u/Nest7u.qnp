@@ -1,0 +1,26 @@
+Nest7u
+7 x1 1 x2 1 x3 1 x4 1 x5 1 x6 1 x7 1
+7 x1 1 x2 1 x3 1 x4 1 x5 1 x6 1 x7 1
+7 x1 0 x2 0 x3 0 x4 0 x5 0 x6 0 x7 0
+7
+act1
+7 x1 1 x2 0 x3 0 x4 0 x5 0 x6 0 x7 0
+7 x1 0 x2 1 x3 1 x4 1 x5 1 x6 1 x7 1
+act2
+6 x2 1 x3 0 x4 0 x5 0 x6 0 x7 0
+6 x2 0 x3 1 x4 1 x5 1 x6 1 x7 1
+act3
+5 x3 1 x4 0 x5 0 x6 0 x7 0
+5 x3 0 x4 1 x5 1 x6 1 x7 1
+act4
+4 x4 1 x5 0 x6 0 x7 0
+4 x4 0 x5 1 x6 1 x7 1
+act5
+3 x5 1 x6 0 x7 0
+3 x5 0 x6 1 x7 1
+act6
+2 x6 1 x7 0
+2 x6 0 x7 1
+act7
+1 x7 1
+2 x7 0 x1 1

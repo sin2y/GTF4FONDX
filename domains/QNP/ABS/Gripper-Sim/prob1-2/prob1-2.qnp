@@ -1,0 +1,23 @@
+abstraction for gripper-prob03
+6 N0 1 N1 1 N2 1 N3 1 B0 0 B1 0
+6 B0 1 B1 0 N0 0 N1 1 N2 1 N3 0
+2 N0 0 N2 0
+6
+move_rooma_roomb
+1 B0 1
+2 B1 1 B0 0
+move_roomb_rooma
+1 B1 1
+2 B0 1 B1 0
+pick_st1_gripper_st2_ball_rooma
+3 B0 1 N1 1 N2 1
+3 N1 0 N2 0 N0 1
+pick_st1_gripper_st2_ball_roomb
+3 B1 1 N1 1 N3 1
+3 N1 0 N3 0 N0 1
+drop_st1_gripper_st2_ball_rooma
+2 B0 1 N0 1
+3 N0 0 N1 1 N2 1
+drop_st1_gripper_st2_ball_roomb
+2 B1 1 N0 1
+3 N0 0 N1 1 N3 1

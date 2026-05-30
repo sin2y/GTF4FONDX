@@ -1,0 +1,14 @@
+abstraction for tyreworld-tireworld-prob01
+4 N0 1 N1 1 N2 1 N3 1
+4 N0 1 N1 0 N2 0 N3 0
+3 N0 0 N2 0 N3 0
+3
+remove-wheel_st1_wheel
+1 N0 1
+2 N0 0 N2 1
+put-on-wheel_st1_wheel
+1 N3 1
+2 N3 0 N1 1
+inflate_st1_wheel
+1 N2 1
+2 N2 0 N3 1

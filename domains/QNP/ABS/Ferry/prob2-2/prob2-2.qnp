@@ -1,0 +1,131 @@
+abstraction for ferry-prob02-l3-c5
+14 N0 1 N1 1 N2 1 N3 1 N4 1 N5 1 N6 1 B0 0 B1 0 B2 0 B3 0 B4 0 B5 0 B6 0
+14 B6 1 B0 1 B1 0 B2 0 B3 0 B4 0 B5 0 N0 1 N1 1 N2 1 N3 1 N4 1 N5 0 N6 0
+6 N0 0 N1 0 N2 0 N3 0 N4 0 N6 0
+42
+sail_l0_l1
+1 B0 1
+2 B1 1 B0 0
+sail_l0_l2
+1 B0 1
+2 B2 1 B0 0
+sail_l0_l3
+1 B0 1
+2 B3 1 B0 0
+sail_l0_l4
+1 B0 1
+2 B4 1 B0 0
+sail_l0_l5
+1 B0 1
+2 B5 1 B0 0
+sail_l1_l0
+1 B1 1
+2 B0 1 B1 0
+sail_l1_l2
+1 B1 1
+2 B2 1 B1 0
+sail_l1_l3
+1 B1 1
+2 B3 1 B1 0
+sail_l1_l4
+1 B1 1
+2 B4 1 B1 0
+sail_l1_l5
+1 B1 1
+2 B5 1 B1 0
+sail_l2_l0
+1 B2 1
+2 B0 1 B2 0
+sail_l2_l1
+1 B2 1
+2 B1 1 B2 0
+sail_l2_l3
+1 B2 1
+2 B3 1 B2 0
+sail_l2_l4
+1 B2 1
+2 B4 1 B2 0
+sail_l2_l5
+1 B2 1
+2 B5 1 B2 0
+sail_l3_l0
+1 B3 1
+2 B0 1 B3 0
+sail_l3_l1
+1 B3 1
+2 B1 1 B3 0
+sail_l3_l2
+1 B3 1
+2 B2 1 B3 0
+sail_l3_l4
+1 B3 1
+2 B4 1 B3 0
+sail_l3_l5
+1 B3 1
+2 B5 1 B3 0
+sail_l4_l0
+1 B4 1
+2 B0 1 B4 0
+sail_l4_l1
+1 B4 1
+2 B1 1 B4 0
+sail_l4_l2
+1 B4 1
+2 B2 1 B4 0
+sail_l4_l3
+1 B4 1
+2 B3 1 B4 0
+sail_l4_l5
+1 B4 1
+2 B5 1 B4 0
+sail_l5_l0
+1 B5 1
+2 B0 1 B5 0
+sail_l5_l1
+1 B5 1
+2 B1 1 B5 0
+sail_l5_l2
+1 B5 1
+2 B2 1 B5 0
+sail_l5_l3
+1 B5 1
+2 B3 1 B5 0
+sail_l5_l4
+1 B5 1
+2 B4 1 B5 0
+board_st1_car_l0
+3 B0 1 B6 1 N0 1
+3 B6 0 N0 0 N6 1
+board_st1_car_l1
+3 B1 1 B6 1 N1 1
+3 B6 0 N1 0 N6 1
+board_st1_car_l2
+3 B2 1 B6 1 N2 1
+3 B6 0 N2 0 N6 1
+board_st1_car_l3
+3 B3 1 B6 1 N3 1
+3 B6 0 N3 0 N6 1
+board_st1_car_l4
+3 B4 1 B6 1 N4 1
+3 B6 0 N4 0 N6 1
+board_st1_car_l5
+3 B5 1 B6 1 N5 1
+3 B6 0 N5 0 N6 1
+debark_st1_car_l0
+2 B0 1 N6 1
+3 B6 1 N6 0 N0 1
+debark_st1_car_l1
+2 B1 1 N6 1
+3 B6 1 N6 0 N1 1
+debark_st1_car_l2
+2 B2 1 N6 1
+3 B6 1 N6 0 N2 1
+debark_st1_car_l3
+2 B3 1 N6 1
+3 B6 1 N6 0 N3 1
+debark_st1_car_l4
+2 B4 1 N6 1
+3 B6 1 N6 0 N4 1
+debark_st1_car_l5
+2 B5 1 N6 1
+3 B6 1 N6 0 N5 1

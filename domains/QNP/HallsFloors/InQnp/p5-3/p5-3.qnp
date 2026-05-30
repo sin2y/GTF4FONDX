@@ -1,0 +1,128 @@
+p5-3
+34 disb-gr0 1 disl-gr0 1 disr-gr0 1 dist-gr0 1 on_floor1 0 on_floor2 0 on_floor3 0 on_floor4 0 on_floor5 0 visited-corner_bl_floor1 0 visited-corner_bl_floor2 0 visited-corner_bl_floor3 0 visited-corner_bl_floor4 0 visited-corner_bl_floor5 0 visited-corner_br_floor1 0 visited-corner_br_floor2 0 visited-corner_br_floor3 0 visited-corner_br_floor4 0 visited-corner_br_floor5 0 visited-corner_tl_floor1 0 visited-corner_tl_floor2 0 visited-corner_tl_floor3 0 visited-corner_tl_floor4 0 visited-corner_tl_floor5 0 visited-corner_tr_floor1 0 visited-corner_tr_floor2 0 visited-corner_tr_floor3 0 visited-corner_tr_floor4 0 visited-corner_tr_floor5 0 visited-floor_floor1 0 visited-floor_floor2 0 visited-floor_floor3 0 visited-floor_floor4 0 visited-floor_floor5 0
+34 disb-gr0 1 disl-gr0 0 disr-gr0 1 dist-gr0 0 on_floor1 1 on_floor2 0 on_floor3 0 on_floor4 0 on_floor5 0 visited-corner_bl_floor1 0 visited-corner_bl_floor2 0 visited-corner_bl_floor3 0 visited-corner_bl_floor4 0 visited-corner_bl_floor5 0 visited-corner_br_floor1 0 visited-corner_br_floor2 0 visited-corner_br_floor3 0 visited-corner_br_floor4 0 visited-corner_br_floor5 0 visited-corner_tl_floor1 0 visited-corner_tl_floor2 0 visited-corner_tl_floor3 0 visited-corner_tl_floor4 0 visited-corner_tl_floor5 0 visited-corner_tr_floor1 0 visited-corner_tr_floor2 0 visited-corner_tr_floor3 0 visited-corner_tr_floor4 0 visited-corner_tr_floor5 0 visited-floor_floor1 0 visited-floor_floor2 0 visited-floor_floor3 0 visited-floor_floor4 0 visited-floor_floor5 0
+5 visited-floor_floor1 1 visited-floor_floor2 1 visited-floor_floor3 1 visited-floor_floor4 1 visited-floor_floor5 1
+41
+mvd_0
+2 disb-gr0 1 disl-gr0 0
+2 disb-gr0 0 dist-gr0 1
+mvd_1
+2 disb-gr0 1 disr-gr0 0
+2 disb-gr0 0 dist-gr0 1
+mvr_0
+2 disr-gr0 1 dist-gr0 0
+2 disl-gr0 1 disr-gr0 0
+mvr_1
+2 disb-gr0 0 disr-gr0 1
+2 disl-gr0 1 disr-gr0 0
+mark-corner_1_bl_floor1
+3 disb-gr0 0 disl-gr0 0 on_floor1 1
+1 visited-corner_bl_floor1 1
+mark-corner_0_br_floor1
+3 disb-gr0 0 disr-gr0 0 on_floor1 1
+1 visited-corner_br_floor1 1
+mark-corner_2_tl_floor1
+3 disl-gr0 0 dist-gr0 0 on_floor1 1
+1 visited-corner_tl_floor1 1
+mark-corner_3_tr_floor1
+3 disr-gr0 0 dist-gr0 0 on_floor1 1
+1 visited-corner_tr_floor1 1
+mvu_0
+2 disl-gr0 0 dist-gr0 1
+2 disb-gr0 1 dist-gr0 0
+mvu_1
+2 disr-gr0 0 dist-gr0 1
+2 disb-gr0 1 dist-gr0 0
+mvl_0
+2 disl-gr0 1 dist-gr0 0
+2 disl-gr0 0 disr-gr0 1
+mvl_1
+2 disb-gr0 0 disl-gr0 1
+2 disl-gr0 0 disr-gr0 1
+goto_1_floor1_floor2
+3 disr-gr0 0 dist-gr0 0 on_floor1 1
+2 on_floor1 0 on_floor2 1
+goto_3_floor1_floor3
+3 disb-gr0 0 disr-gr0 0 on_floor1 1
+2 on_floor1 0 on_floor3 1
+goto_2_floor1_floor4
+3 disb-gr0 0 disl-gr0 0 on_floor1 1
+2 on_floor1 0 on_floor4 1
+mark-corner_0_br_floor2
+3 disb-gr0 0 disr-gr0 0 on_floor2 1
+1 visited-corner_br_floor2 1
+mark-corner_1_bl_floor2
+3 disb-gr0 0 disl-gr0 0 on_floor2 1
+1 visited-corner_bl_floor2 1
+mark-corner_2_tl_floor2
+3 disl-gr0 0 dist-gr0 0 on_floor2 1
+1 visited-corner_tl_floor2 1
+mark-corner_3_tr_floor2
+3 disr-gr0 0 dist-gr0 0 on_floor2 1
+1 visited-corner_tr_floor2 1
+goto_0_floor2_floor5
+3 disl-gr0 0 dist-gr0 0 on_floor2 1
+2 on_floor2 0 on_floor5 1
+goto_1_floor2_floor1
+3 disr-gr0 0 dist-gr0 0 on_floor2 1
+2 on_floor1 1 on_floor2 0
+mark-corner_0_br_floor3
+3 disb-gr0 0 disr-gr0 0 on_floor3 1
+1 visited-corner_br_floor3 1
+mark-corner_1_bl_floor3
+3 disb-gr0 0 disl-gr0 0 on_floor3 1
+1 visited-corner_bl_floor3 1
+mark-corner_2_tl_floor3
+3 disl-gr0 0 dist-gr0 0 on_floor3 1
+1 visited-corner_tl_floor3 1
+mark-corner_3_tr_floor3
+3 disr-gr0 0 dist-gr0 0 on_floor3 1
+1 visited-corner_tr_floor3 1
+goto_3_floor3_floor1
+3 disb-gr0 0 disr-gr0 0 on_floor3 1
+2 on_floor1 1 on_floor3 0
+mark-corner_0_br_floor4
+3 disb-gr0 0 disr-gr0 0 on_floor4 1
+1 visited-corner_br_floor4 1
+mark-corner_1_bl_floor4
+3 disb-gr0 0 disl-gr0 0 on_floor4 1
+1 visited-corner_bl_floor4 1
+mark-corner_2_tl_floor4
+3 disl-gr0 0 dist-gr0 0 on_floor4 1
+1 visited-corner_tl_floor4 1
+mark-corner_3_tr_floor4
+3 disr-gr0 0 dist-gr0 0 on_floor4 1
+1 visited-corner_tr_floor4 1
+goto_2_floor4_floor1
+3 disb-gr0 0 disl-gr0 0 on_floor4 1
+2 on_floor1 1 on_floor4 0
+mark-floor_floor1
+5 on_floor1 1 visited-corner_bl_floor1 1 visited-corner_br_floor1 1 visited-corner_tl_floor1 1 visited-corner_tr_floor1 1
+1 visited-floor_floor1 1
+mark-corner_0_br_floor5
+3 disb-gr0 0 disr-gr0 0 on_floor5 1
+1 visited-corner_br_floor5 1
+mark-corner_1_bl_floor5
+3 disb-gr0 0 disl-gr0 0 on_floor5 1
+1 visited-corner_bl_floor5 1
+mark-corner_2_tl_floor5
+3 disl-gr0 0 dist-gr0 0 on_floor5 1
+1 visited-corner_tl_floor5 1
+mark-corner_3_tr_floor5
+3 disr-gr0 0 dist-gr0 0 on_floor5 1
+1 visited-corner_tr_floor5 1
+goto_0_floor5_floor2
+3 disl-gr0 0 dist-gr0 0 on_floor5 1
+2 on_floor2 1 on_floor5 0
+mark-floor_floor2
+5 on_floor2 1 visited-corner_bl_floor2 1 visited-corner_br_floor2 1 visited-corner_tl_floor2 1 visited-corner_tr_floor2 1
+1 visited-floor_floor2 1
+mark-floor_floor3
+5 on_floor3 1 visited-corner_bl_floor3 1 visited-corner_br_floor3 1 visited-corner_tl_floor3 1 visited-corner_tr_floor3 1
+1 visited-floor_floor3 1
+mark-floor_floor4
+5 on_floor4 1 visited-corner_bl_floor4 1 visited-corner_br_floor4 1 visited-corner_tl_floor4 1 visited-corner_tr_floor4 1
+1 visited-floor_floor4 1
+mark-floor_floor5
+5 on_floor5 1 visited-corner_bl_floor5 1 visited-corner_br_floor5 1 visited-corner_tl_floor5 1 visited-corner_tr_floor5 1
+1 visited-floor_floor5 1

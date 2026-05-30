@@ -1,0 +1,131 @@
+p5-3-4
+26 blocks-gr0_c0 1 blocks-gr0_c1 1 blocks-gr0_c2 1 blocks-gr0_c3 1 blocks-gr0_c4 1 empty_g0 0 in_g0_c0 0 in_g0_c1 0 in_g0_c2 0 in_g0_c3 0 in_g0_c4 0 in_p0_c0 0 in_p0_c1 0 in_p0_c2 0 in_p0_c3 0 in_p0_c4 0 in_p1_c0 0 in_p1_c1 0 in_p1_c2 0 in_p1_c3 0 in_p1_c4 0 in_p2_c0 0 in_p2_c1 0 in_p2_c2 0 in_p2_c3 0 in_p2_c4 0
+26 blocks-gr0_c0 0 blocks-gr0_c1 1 blocks-gr0_c2 0 blocks-gr0_c3 0 blocks-gr0_c4 1 empty_g0 1 in_g0_c0 1 in_g0_c1 0 in_g0_c2 0 in_g0_c3 0 in_g0_c4 0 in_p0_c0 1 in_p0_c1 0 in_p0_c2 0 in_p0_c3 0 in_p0_c4 0 in_p1_c0 0 in_p1_c1 0 in_p1_c2 1 in_p1_c3 0 in_p1_c4 0 in_p2_c0 0 in_p2_c1 0 in_p2_c2 0 in_p2_c3 1 in_p2_c4 0
+3 in_p0_c4 1 in_p1_c4 1 in_p2_c4 1
+42
+drop_g0_c0
+5 empty_g0 0 in_g0_c0 1 in_p0_c0 0 in_p1_c0 0 in_p2_c0 0
+2 blocks-gr0_c0 1 empty_g0 1
+move-person_p0_c0_c1
+2 blocks-gr0_c1 0 in_p0_c0 1
+2 in_p0_c0 0 in_p0_c1 1
+move-gripper_g0_c0_c1
+1 in_g0_c0 1
+2 in_g0_c0 0 in_g0_c1 1
+move-person_p1_c2_c1
+2 blocks-gr0_c1 0 in_p1_c2 1
+2 in_p1_c1 1 in_p1_c2 0
+move-person_p1_c2_c3
+2 blocks-gr0_c3 0 in_p1_c2 1
+2 in_p1_c2 0 in_p1_c3 1
+move-person_p2_c3_c2
+2 blocks-gr0_c2 0 in_p2_c3 1
+2 in_p2_c2 1 in_p2_c3 0
+move-person_p2_c3_c4
+2 blocks-gr0_c4 0 in_p2_c3 1
+2 in_p2_c3 0 in_p2_c4 1
+move-person_p0_c1_c0
+2 blocks-gr0_c0 0 in_p0_c1 1
+2 in_p0_c0 1 in_p0_c1 0
+move-person_p0_c1_c2
+2 blocks-gr0_c2 0 in_p0_c1 1
+2 in_p0_c1 0 in_p0_c2 1
+move-gripper_g0_c1_c0
+1 in_g0_c1 1
+2 in_g0_c0 1 in_g0_c1 0
+move-gripper_g0_c1_c2
+1 in_g0_c1 1
+2 in_g0_c1 0 in_g0_c2 1
+pick_g0_c1
+3 blocks-gr0_c1 1 empty_g0 1 in_g0_c1 1
+2 blocks-gr0_c1 0 empty_g0 0
+drop_g0_c1
+5 empty_g0 0 in_g0_c1 1 in_p0_c1 0 in_p1_c1 0 in_p2_c1 0
+2 blocks-gr0_c1 1 empty_g0 1
+move-person_p1_c1_c0
+2 blocks-gr0_c0 0 in_p1_c1 1
+2 in_p1_c0 1 in_p1_c1 0
+move-person_p1_c1_c2
+2 blocks-gr0_c2 0 in_p1_c1 1
+2 in_p1_c1 0 in_p1_c2 1
+move-person_p1_c3_c2
+2 blocks-gr0_c2 0 in_p1_c3 1
+2 in_p1_c2 1 in_p1_c3 0
+move-person_p1_c3_c4
+2 blocks-gr0_c4 0 in_p1_c3 1
+2 in_p1_c3 0 in_p1_c4 1
+move-person_p2_c2_c1
+2 blocks-gr0_c1 0 in_p2_c2 1
+2 in_p2_c1 1 in_p2_c2 0
+move-person_p2_c2_c3
+2 blocks-gr0_c3 0 in_p2_c2 1
+2 in_p2_c2 0 in_p2_c3 1
+move-person_p2_c4_c3
+2 blocks-gr0_c3 0 in_p2_c4 1
+2 in_p2_c3 1 in_p2_c4 0
+pick_g0_c0
+3 blocks-gr0_c0 1 empty_g0 1 in_g0_c0 1
+2 blocks-gr0_c0 0 empty_g0 0
+move-person_p0_c2_c1
+2 blocks-gr0_c1 0 in_p0_c2 1
+2 in_p0_c1 1 in_p0_c2 0
+move-person_p0_c2_c3
+2 blocks-gr0_c3 0 in_p0_c2 1
+2 in_p0_c2 0 in_p0_c3 1
+move-gripper_g0_c2_c1
+1 in_g0_c2 1
+2 in_g0_c1 1 in_g0_c2 0
+move-gripper_g0_c2_c3
+1 in_g0_c2 1
+2 in_g0_c2 0 in_g0_c3 1
+drop_g0_c2
+5 empty_g0 0 in_g0_c2 1 in_p0_c2 0 in_p1_c2 0 in_p2_c2 0
+2 blocks-gr0_c2 1 empty_g0 1
+move-person_p1_c0_c1
+2 blocks-gr0_c1 0 in_p1_c0 1
+2 in_p1_c0 0 in_p1_c1 1
+move-person_p1_c4_c3
+2 blocks-gr0_c3 0 in_p1_c4 1
+2 in_p1_c3 1 in_p1_c4 0
+move-person_p2_c1_c0
+2 blocks-gr0_c0 0 in_p2_c1 1
+2 in_p2_c0 1 in_p2_c1 0
+move-person_p2_c1_c2
+2 blocks-gr0_c2 0 in_p2_c1 1
+2 in_p2_c1 0 in_p2_c2 1
+move-person_p0_c3_c2
+2 blocks-gr0_c2 0 in_p0_c3 1
+2 in_p0_c2 1 in_p0_c3 0
+move-person_p0_c3_c4
+2 blocks-gr0_c4 0 in_p0_c3 1
+2 in_p0_c3 0 in_p0_c4 1
+move-gripper_g0_c3_c2
+1 in_g0_c3 1
+2 in_g0_c2 1 in_g0_c3 0
+move-gripper_g0_c3_c4
+1 in_g0_c3 1
+2 in_g0_c3 0 in_g0_c4 1
+drop_g0_c3
+5 empty_g0 0 in_g0_c3 1 in_p0_c3 0 in_p1_c3 0 in_p2_c3 0
+2 blocks-gr0_c3 1 empty_g0 1
+move-person_p2_c0_c1
+2 blocks-gr0_c1 0 in_p2_c0 1
+2 in_p2_c0 0 in_p2_c1 1
+pick_g0_c2
+3 blocks-gr0_c2 1 empty_g0 1 in_g0_c2 1
+2 blocks-gr0_c2 0 empty_g0 0
+move-person_p0_c4_c3
+2 blocks-gr0_c3 0 in_p0_c4 1
+2 in_p0_c3 1 in_p0_c4 0
+move-gripper_g0_c4_c3
+1 in_g0_c4 1
+2 in_g0_c3 1 in_g0_c4 0
+pick_g0_c4
+3 blocks-gr0_c4 1 empty_g0 1 in_g0_c4 1
+2 blocks-gr0_c4 0 empty_g0 0
+drop_g0_c4
+5 empty_g0 0 in_g0_c4 1 in_p0_c4 0 in_p1_c4 0 in_p2_c4 0
+2 blocks-gr0_c4 1 empty_g0 1
+pick_g0_c3
+3 blocks-gr0_c3 1 empty_g0 1 in_g0_c3 1
+2 blocks-gr0_c3 0 empty_g0 0
