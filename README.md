@@ -124,3 +124,9 @@ python3 src/renderPolicy.py --main_path "$PROBLEM_PATH"
 
 Useful flags are `--p` for compact partial-state graphs, `--nt` for
 non-terminating edges, and `--ntc` for compact non-terminating edges.
+
+## License
+
+This repository is distributed under the GNU General Public License v3.0; see
+`LICENSE`. Third-party components keep their original copyright and license
+notices in the source files.
