@@ -1,0 +1,106 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SRC_DIR="$BASE_DIR/src"
+PLANNER="$SRC_DIR/search/downward"
+
+usage() {
+    cat <<EOF
+Usage:
+  $(basename "$0") SOLVER PROBLEM_DIR [GTF_OPTIONS...]
+
+SOLVER:
+  BFF    Run GTF-BFF  (--solving-mode 0)
+  3FF    Run GTF-3FF  (--solving-mode 1)
+  3FN    Run GTF-3FN  (--solving-mode 2)
+
+Examples:
+  $(basename "$0") BFF ../GTF4FONDX/domains/FONDX/BlocksColumns-Adv/p3-1-1
+  $(basename "$0") 3FF ../GTF4FONDX/domains/FONDX/BlocksColumns-Adv/p3-1-1 --show-policy 0
+  $(basename "$0") 3FN /abs/path/to/problem --num-solutions 2
+
+Extra options are appended after the defaults, so simple scalar options can be
+overridden by passing them again.
+EOF
+}
+
+if [[ $# -lt 1 || "${1:-}" == "-h" || "${1:-}" == "--help" ]]; then
+    usage
+    exit 0
+fi
+
+if [[ $# -lt 2 ]]; then
+    usage >&2
+    exit 2
+fi
+
+solver="$(printf '%s' "$1" | tr '[:lower:]' '[:upper:]')"
+shift
+
+case "$solver" in
+    BFF)
+        solving_mode=0
+        ;;
+    3FF|3F)
+        solving_mode=1
+        ;;
+    3FN)
+        solving_mode=2
+        ;;
+    *)
+        echo "Unknown solver '$solver'. Expected one of: BFF, 3FF, 3FN." >&2
+        exit 2
+        ;;
+esac
+
+problem_dir="$1"
+shift
+
+if [[ ! -d "$problem_dir" ]]; then
+    echo "Problem path must be a directory: $problem_dir" >&2
+    exit 2
+fi
+problem_dir="$(cd "$problem_dir" && pwd)"
+
+if [[ ! -x "$PLANNER" ]]; then
+    echo "Planner binary not found or not executable: $PLANNER" >&2
+    echo "Build it with: make -f src/search/Makefile" >&2
+    exit 2
+fi
+
+exec "$PLANNER" \
+    "--heuristic" "h=ff(cost_type=1)" \
+    --search "lazy_greedy([h],preferred=[h])" \
+    --random-seed 814102613 \
+    --planlocal 0 \
+    --partial-planlocal 0 \
+    --limit-planlocal 0 \
+    --optimized-scd 0 \
+    --message-debug 0 \
+    --findsc_info 0 \
+    --running-debug 0 \
+    --silent-planning 2 \
+    --num-solutions 1 \
+    --save_all_solutions 0 \
+    --working_src_path "$SRC_DIR" \
+    --from-scratch 1 \
+    --bqnp 0 \
+    --policy_steps_type 0 \
+    --solving-mode "$solving_mode" \
+    --detect_nont_p 1 \
+    --online_keyact_weight 0 \
+    --abort_when_sc_duplicates 0 \
+    --monitoring_sc 0 \
+    --var_action 0 \
+    --adv_fsaps 1 \
+    --sc_fsaps 1 \
+    --skip_key 1 \
+    --strengthen_key 1 \
+    --preprocess_online 1 \
+    --show-policy 1 \
+    --dump-graph 0 \
+    --debug_nont 0 \
+    --main-path "$problem_dir" \
+    "$@"

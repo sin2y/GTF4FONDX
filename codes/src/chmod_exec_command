@@ -1,0 +1,1 @@
+chmod +x GTF src/numeric/ff src/preOutput src/preprocess/preprocess src/search/GTF src/genFONDInput_plus.py src/preOutput_plus src/extractFairness.py
