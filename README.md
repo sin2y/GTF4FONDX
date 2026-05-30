@@ -1,17 +1,18 @@
-# Solving QNP and FOND$^+$ with Generating, Testing and Forbidding
+# Solving QNP and FOND$`^+`$ with Generating, Testing and Forbidding
 
 This project contains a GTF solver for qualitative numeric planning (QNP) and
-FOND$^+$ planning. The runnable code is under `codes`; the benchmark inputs are
-under `domains`.
+FOND$`^+`$ planning. The runnable code is under `codes`; the
+benchmark inputs are under `domains`.
 
 ## Repository Layout
 
 - `codes/src/preOutput_plus`: preprocessing wrapper. It converts QNP input to
-  FOND$^+$ PDDL when needed, then runs the translator and preprocessor.
+  FOND$`^+`$ PDDL when needed, then runs the translator and
+  preprocessor.
 - `codes/src/qnp2pddl.py` and `codes/src/genFONDInput_plus.py`: QNP parser and
   QNP-to-PDDL conversion.
-- `codes/src/translate`: modified Fast Downward translator with FOND$^+$ fairness
-  support.
+- `codes/src/translate`: modified Fast Downward translator with
+  FOND$`^+`$ fairness support.
 - `codes/src/preprocess`: Fast Downward-style preprocessor. It reads
   `output.sas` and writes `output`.
 - `codes/src/search`: modified PRP/Fast Downward search code. `search/downward`
@@ -21,7 +22,7 @@ under `domains`.
 - `codes/src/renderPolicy.py`: optional Graphviz rendering for dumped policy
   graphs.
 - `domains/QNP`: QNP instances and their PDDL translations.
-- `domains/FONDX`: FOND$^+$ PDDL instances.
+- `domains/FONDX`: FOND$`^+`$ PDDL instances.
 
 ## Requirements
 
@@ -55,7 +56,7 @@ make -f makefile
 
 Set `PROBLEM_PATH` to a directory containing one of the following:
 
-- FOND$^+$ PDDL: `domain.pddl` and `problem.pddl`.
+- FOND$`^+`$ PDDL: `domain.pddl` and `problem.pddl`.
 - QNP: exactly one `.qnp` file.
 
 The QNP text format used by `qnp2pddl.py` is:
