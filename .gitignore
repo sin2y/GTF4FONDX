@@ -1,0 +1,90 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Native build products
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+core
+gmon.out
+PROFILE
+*~
+*.bak
+*.output
+
+# Planner build products
+/codes/src/search/.obj/
+/codes/src/search/Makefile.depend
+/codes/src/search/Makefile.temp*
+/codes/src/search/downward
+/codes/src/search/downward-debug
+/codes/src/search/downward-profile
+/codes/src/search/downward-release
+/codes/src/preprocess/.obj/
+/codes/src/preprocess/Makefile.depend
+/codes/src/preprocess/Makefile.temp*
+# /codes/src/preprocess/preprocess
+/codes/src/preprocess/output
+# /codes/src/numeric/ff
+# /codes/src/numeric/scan-fct_pddl.tab.c
+# /codes/src/numeric/scan-ops_pddl.tab.c
+# /codes/src/numeric/scan-probname.tab.c
+# /codes/src/numeric/lex.fct_pddl.c
+# /codes/src/numeric/lex.ops_pddl.c
+# /codes/src/numeric/lex.probname.c
+# /codes/src/numeric/output.lint
+# /codes/src/numeric/graph.*
+# /codes/src/numeric/*.symbex
+# /codes/src/VAL/validate
+# /codes/src/validate
+# /codes/src/build-search-*/
+
+# Planner run products
+**/elapsed.time
+**/output.sas
+**/output
+**/result.info
+**/plan_numbers_and_cost
+**/sas_plan
+**/sas_plan.*
+**/policy.out
+**/policy.fasp
+**/policy
+**/ppolicy
+**/man.out
+**/pman.out
+**/man.fsap
+**/action.ind
+**/state.ind
+**/pstate.ind
+**/graph.out
+**/pgraph.out
+**/ntgraph.out
+**/ntcgraph.out
+**/fp_ABs.info
+**/qnp_action.info
+**/redundant_actions
+**/num_domain.pddl
+**/num_problem.pddl
+**/qnp_num/
+**/S_[0-9]*/
+**/NT/
+**/NT_[0-9]*/
+
+# Policy rendering products
+**/output.dot
+**/output.dot.*
+**/poutput.dot
+**/poutput.dot.*
+**/nt_output.dot
+**/nt_output.dot.*
+**/nt_poutput.dot
+**/nt_poutput.dot.*
+**/ntc_output.dot
+**/ntc_output.dot.*
+**/ntc_poutput.dot
+**/ntc_poutput.dot.*
